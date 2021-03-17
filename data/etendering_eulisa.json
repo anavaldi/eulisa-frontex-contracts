@@ -1,0 +1,3149 @@
+[
+    {
+        "object": {
+            "description": "NA",
+            "duration": "NA",
+            "cpv": "79710000 Security services",
+            "type": "Services",
+            "total_value": "4 000 000.00 EUR",
+            "cpv_2": "VII.1.3)Place of performance",
+            "lots": "NA",
+            "title": "Provision of Security Guarding and Reception Services at eu-LISA Strasbourg Premises",
+            "award_criteria": "NA"
+        },
+        "procedure": {
+            "type": "NA"
+        },
+        "id": "565733-2020",
+        "contracting_authority": {
+            "postal_code": "67000",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "France",
+            "type_contracting_authority": "NA",
+            "main_activity": "NA",
+            "nuts": "FRF11 Bas-Rhin",
+            "official_name": "European Union Agency for the Operational Management of Large-scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Strasbourg",
+            "postal_address": "18 rue de la Faisanderie"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " France",
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE",
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " Securitas France Sarl",
+                    " Securitas France Sarl"
+                ],
+                "group_economic_operators": "NA",
+                "contractors_postal_code": [
+                    " 92130",
+                    " 92130"
+                ],
+                "subcontracting": "NA",
+                "contractors_town": [
+                    " Issy-Les-Moulineux",
+                    " Issy-Les-Moulineux"
+                ],
+                "contractors_postal_address": [
+                    " 253 quai de la Bataille de Stalingrad",
+                    " 253 quai de la Bataille de Stalingrad"
+                ],
+                "total_value": "NA",
+                "contract_no": "LISA-2018-RP-03",
+                "number_tenders_received": "NA"
+            }
+        ],
+        "year": "2020"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "187 000 000.00 EUR",
+            "cpv_2": "72230000 Custom software development services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Transversal Engineering Framework (TEF) Lot 2",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 70"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "410436-2020",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "LISA-2019-OP-01-TEF-TENDERING@eulisa.europa.eu",
+            "country": "France",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "FR FRANCE",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Strasbourg",
+            "postal_address": "18 rue de la Faisanderie"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Luxembourg"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG"
+                ],
+                "contractors": [
+                    " Intrasoft International SA"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-1253"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Luxembourg"
+                ],
+                "contractors_postal_address": [
+                    " 2b, rue Nicolas Bové"
+                ],
+                "total_value": "187 000 000.00 EUR",
+                "contract_no": "LISA/2019/OP/01/02/01",
+                "number_tenders_received": "6"
+            },
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Atos Belgium N.V./S.A."
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " B-1930"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Zaventem"
+                ],
+                "contractors_postal_address": [
+                    " DA Vincilaan 5"
+                ],
+                "total_value": "187 000 000.00 EUR",
+                "contract_no": "LISA/2019/OP/01/02/02",
+                "number_tenders_received": "6"
+            },
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Luxembourg",
+                    " Greece",
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG",
+                    " EL ΕΛΛΑΔΑ",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " European Dynamics Luxembourg SA (Group Leader)",
+                    " European Dynamics SA",
+                    " European Dynamics Belgium SA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " L-1466",
+                    " GR-151 24",
+                    " B-1040"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Luxembourg",
+                    " Athens",
+                    " Brussels"
+                ],
+                "contractors_postal_address": [
+                    " 12, rue Jean Engling",
+                    " 209, Kifissias Ave. & Arkadiou Str",
+                    " 15, rue Belliard"
+                ],
+                "total_value": "187 000 000.00 EUR",
+                "contract_no": "LISA/2019/OP/01/02/03",
+                "number_tenders_received": "6"
+            },
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Sopra Steria Benelux NV/SA (Group leader)",
+                    " Everis Belgique SPRL"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " B-1050",
+                    " B-1000"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Brussels",
+                    " Brussels"
+                ],
+                "contractors_postal_address": [
+                    " 15-23 avenue Arnaud Fraiteur",
+                    " rue de SPA 8"
+                ],
+                "total_value": "187 000 000.00 EUR",
+                "contract_no": "LISA/2019/OP/01/02/04",
+                "number_tenders_received": "6"
+            },
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Luxembourg",
+                    " Luxembourg"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG",
+                    " LU LUXEMBOURG"
+                ],
+                "contractors": [
+                    " ARHS Developments SA (Group Leader)",
+                    " Sword Technologies SA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " L-4370",
+                    " L-8399"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Belvaux",
+                    " Windhof"
+                ],
+                "contractors_postal_address": [
+                    " 13 Boulevard du Jazz",
+                    " 2 rue d'Arlon"
+                ],
+                "total_value": "187 000 000.00 EUR",
+                "contract_no": "LISA/2019/OP/01/02/05",
+                "number_tenders_received": "6"
+            }
+        ],
+        "year": "2020"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "35113400 Protective and safety clothing",
+            "type": "Supplies",
+            "total_value": "127 060.00 EUR",
+            "cpv_2": "NA",
+            "lots": "This contract is divided into lots: no",
+            "title": "Supply of Personal Protective Equipment (Face Masks) for EU-LISA",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "314969-2020",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the Operational Management of Large-scale IT Systems in the Area of Freedom, Security and Justice (EU-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " yes"
+                ],
+                "contractors_country": [
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE00 Eesti"
+                ],
+                "contractors": [
+                    " 365JP OÜ"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 75501"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Saku Alevik"
+                ],
+                "contractors_postal_address": [
+                    " Lauliku 8-8"
+                ],
+                "total_value": "127 060.00 EUR",
+                "contract_no": "LISA/2020/NP/08",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2020"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "302 550 000.00 EUR",
+            "cpv_2": "72200000 Software programming and consultancy services",
+            "lots": "This contract is divided into lots: no",
+            "title": "Framework Contract for Implementation and Maintenance in Working Order of the Biometrics Part of the Entry Exit System and Future Shared Biometrics Matching System",
+            "award_criteria": "Quality criterion - Name: Technical offer / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "200083-2020",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " France",
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Idemia Identity & Security SAS",
+                    " Sopra Steria Benelux SA/NV"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " 92400",
+                    " 1050"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Courbevoie",
+                    " Brussels"
+                ],
+                "contractors_postal_address": [
+                    " 2, place Samuel de Champlain",
+                    " 15/23 Avenue Arnaud Fraiteur"
+                ],
+                "total_value": "302 550 000.00 EUR",
+                "contract_no": "LISA/2019/RP/05",
+                "number_tenders_received": "3"
+            }
+        ],
+        "year": "2020"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "12 001 600.00 EUR",
+            "cpv_2": "NA",
+            "lots": "This contract is divided into lots: no",
+            "title": "ICT External Assistance HQ",
+            "award_criteria": "Quality criterion - Name: Quality of tenderer’s proposal (including due diligence and phase-in plan) / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "170115-2020",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium",
+                    " Greece"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " BE BELGIQUE-BELGIË",
+                    " EL ΕΛΛΑΔΑ"
+                ],
+                "contractors": [
+                    " Unisys Belgium SA",
+                    " PwC EU Services EESV",
+                    " UniSystems Information Technology Systems Commercial SMSA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Diegem",
+                    " Sint-Stevens-Woluwe",
+                    " Athens"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "12 001 600.00 EUR",
+                "contract_no": "LISA/2019/NP/19",
+                "number_tenders_received": "2"
+            }
+        ],
+        "year": "2020"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "76 060 316.00 EUR",
+            "cpv_2": "75000000 Administration, defence and social security services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of External Assistance (EXTRA)",
+            "award_criteria": "Quality criterion - Name: Quality of tenderer’s proposal (including due diligence and phase-in plan) / Weighting: 15"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "596080-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Luxembourg"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG"
+                ],
+                "contractors": [
+                    " Infeurope SA"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Luxembourg"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "5 465 500.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "4"
+            },
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Estonia",
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE EESTI",
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " Civitta Eesti AS",
+                    " Advokaadiburoo Sorainen AS"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Tartu",
+                    " Tallinn"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "5 465 500.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "4"
+            },
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Portugal"
+                ],
+                "contractors_nuts": [
+                    " PL POLSKA"
+                ],
+                "contractors": [
+                    " Vector Synergy Spolka z Ograniczona Odpowiedzianoscia"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-2925"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Poznan"
+                ],
+                "contractors_postal_address": [
+                    " rue du Fort Niedergrünewald"
+                ],
+                "total_value": "5 465 500.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "4"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "76 060 316.00 EUR",
+            "cpv_2": "72000000 IT services: consulting, software development, Internet and support",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of External Assistance (EXTRA)",
+            "award_criteria": "Quality criterion - Name: Quality of tenderer’s proposal (including due diligence and phase-in plan) / Weighting: 15"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "596077-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium",
+                    " Greece"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " BE BELGIQUE-BELGIË",
+                    " EL ΕΛΛΑΔΑ"
+                ],
+                "contractors": [
+                    " Unisys Belgium SA",
+                    " PwC EU Services EESV",
+                    " UniSystems Information Technology Systems Commercial SMSA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Diegem",
+                    " Woluwedal",
+                    " Athens"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "44 960 400.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "3"
+            },
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Portugal"
+                ],
+                "contractors_nuts": [
+                    " PT PORTUGAL"
+                ],
+                "contractors": [
+                    " CGITI Portugal SA"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Lisbon"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "44 960 400.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "3"
+            },
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Italy"
+                ],
+                "contractors_nuts": [
+                    " IT ITALIA"
+                ],
+                "contractors": [
+                    " Engineering Ingegneria Informatica S.p.A."
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-2925"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Rome"
+                ],
+                "contractors_postal_address": [
+                    " rue du Fort Niedergrünewald"
+                ],
+                "total_value": "44 960 400.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "3"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "76 060 316.00 EUR",
+            "cpv_2": "75000000 Administration, defence and social security services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of External Assistance (EXTRA)",
+            "award_criteria": "Quality criterion - Name: Quality of tenderer’s proposal (including due diligence and phase-in plan) / Weighting: 15"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "596076-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Luxembourg"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG"
+                ],
+                "contractors": [
+                    " Infeurope SA"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Luxembourg"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "13 632 816.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "3"
+            },
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Estonia",
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE EESTI",
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " Civitta Eesti AS",
+                    " Advokaadiburoo Sorainen AS"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Tartu",
+                    " Tallinn"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "13 632 816.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "3"
+            },
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_nuts": [
+                    " PL POLSKA"
+                ],
+                "contractors": [
+                    " Vector Synergy Spolka z Ograniczona Odpowiedzianoscia"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-2925 Luxembourg"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Poznan"
+                ],
+                "contractors_postal_address": [
+                    " Rue du Fort Niedergrünewald"
+                ],
+                "total_value": "13 632 816.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "3"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "80000000 Education and training services",
+            "type": "Services",
+            "total_value": "2 500 000.00 EUR",
+            "cpv_2": "NA",
+            "lots": "This contract is divided into lots: no",
+            "title": "Provision of Training, Conferences, Seminars, Coaching, e-learning, Learning and Organisational Development Services",
+            "award_criteria": "Quality criterion - Name: Quality (as per Tender Specifications section 3.4.1) / Weighting: 60 %"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "593676-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " yes",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Luxembourg",
+                    " Germany"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG",
+                    " DE DEUTSCHLAND"
+                ],
+                "contractors": [
+                    " INFEUROPE S.A.",
+                    " imc information multimedia communication AG"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Luxembourg",
+                    " Saarbruecken"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "2 500 000.00 EUR",
+                "contract_no": "LISA/2019/OP/04",
+                "number_tenders_received": "3"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "40 000 000.00 EUR",
+            "cpv_2": "72220000 Systems and technical consultancy services",
+            "lots": "NA",
+            "title": "Common Shared Infrastructure (CSI)",
+            "award_criteria": "NA"
+        },
+        "procedure": {
+            "type": "NA"
+        },
+        "id": "577445-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "NA",
+            "main_activity": "NA",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Everis Spain SLU succursale en Belgique",
+                    " Everis Spain SLU succursale en Belgique"
+                ],
+                "group_economic_operators": "NA",
+                "contractors_postal_code": "NA",
+                "subcontracting": "NA",
+                "contractors_town": [
+                    " Brussels",
+                    " Brussels"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "NA",
+                "contract_no": "LISA/2016/RP/01",
+                "number_tenders_received": "NA"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "NA",
+            "cpv_2": "72000000 IT services: consulting, software development, Internet and support",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of External Assistance (EXTRA)",
+            "award_criteria": "Quality criterion - Name: Quality of tenderer’s proposal (including due diligence and phase-in plan) / Weighting: 15"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "543395-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [],
+                "contractors_country": [],
+                "contractors_nuts": [],
+                "contractors": [],
+                "group_economic_operators": "NA",
+                "contractors_postal_code": [],
+                "subcontracting": "NA",
+                "contractors_town": [],
+                "contractors_postal_address": [],
+                "total_value": "NA",
+                "contract_no": "NA",
+                "number_tenders_received": "NA"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "50710000 Repair and maintenance services of electrical and mechanical building installations",
+            "type": "Services",
+            "total_value": "2 500 000.00 EUR",
+            "cpv_2": "51100000 Installation services of electrical and mechanical equipment",
+            "lots": "This contract is divided into lots: no",
+            "title": "Framework Contract for Maintenance Services and Works for Update and Improve the eu-LISA Back-up Site in Sankt Johann im Pongau, Austria",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "526594-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Austria"
+                ],
+                "contractors_nuts": [
+                    " AT ÖSTERREICH"
+                ],
+                "contractors": [
+                    " ELIN GmbH"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 1230"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Wien"
+                ],
+                "contractors_postal_address": [
+                    " Pfarrgasse 75"
+                ],
+                "total_value": "2 500 000.00 EUR",
+                "contract_no": "LISA-2019-NP-01",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "85100000 Health services",
+            "type": "Services",
+            "total_value": "NA",
+            "cpv_2": "85120000 Medical practice and related services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of Medical Services",
+            "award_criteria": "Quality criterion - Name: Medical approach and overall management of the process: quality of proposal / Weighting: 20"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "439744-2019",
+        "contracting_authority": {
+            "postal_code": "10145",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5, 10415 Tallinn, Estonia"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [],
+                "contractors_country": [],
+                "contractors_nuts": [],
+                "contractors": [],
+                "group_economic_operators": "NA",
+                "contractors_postal_code": [],
+                "subcontracting": "NA",
+                "contractors_town": [],
+                "contractors_postal_address": [],
+                "total_value": "NA",
+                "contract_no": "NA",
+                "number_tenders_received": "NA"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "85100000 Health services",
+            "type": "Services",
+            "total_value": "600 000.00 EUR",
+            "cpv_2": "85120000 Medical practice and related services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of Medical Services",
+            "award_criteria": "Quality criterion - Name: Medical approach and overall management of the process: quality of proposal / Weighting: 20"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "439743-2019",
+        "contracting_authority": {
+            "postal_code": "10145",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the Operational Management of Large-scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " Qvalitas Arstikeskus AS"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-2925"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Tallinn"
+                ],
+                "contractors_postal_address": [
+                    " rue du Fort Niedergrünewald"
+                ],
+                "total_value": "200 000.00 EUR",
+                "contract_no": "LISA/2018?OP/05/02",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79710000 Security services",
+            "type": "Services",
+            "total_value": "3 500 000.00 EUR",
+            "cpv_2": "35100000 Emergency and security equipment",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of Security Services and Equipment",
+            "award_criteria": "Quality criterion - Name: Technical evaluation criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "414490-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " SPIE Facilities"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 93287"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Saint-Denis Cedex"
+                ],
+                "contractors_postal_address": [
+                    " 1/3 Place de la Berline"
+                ],
+                "total_value": "3 500 000.00 EUR",
+                "contract_no": "LISA/2016/RP/03 Lot 3",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "65300000 Electricity distribution and related services",
+            "type": "Services",
+            "total_value": "350 000.00 EUR",
+            "cpv_2": "NA",
+            "lots": "This contract is divided into lots: no",
+            "title": "Electricity Services for eu-LISA Operational Site in Strasbourg, France",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "375801-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " ES Energies Strasbourg"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-2925 Luxembourg"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Strasbourg"
+                ],
+                "contractors_postal_address": [
+                    " rue du Fort Niedergrünewald"
+                ],
+                "total_value": "350 000.00 EUR",
+                "contract_no": "LISA/2019/NP/07",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79710000 Security services",
+            "type": "Services",
+            "total_value": "4 000 000.00 EUR",
+            "cpv_2": "79710000 Security services",
+            "lots": "This contract is divided into lots: no",
+            "title": "Provision of Security Guarding and Reception Services at eu-LISA Strasbourg Premises",
+            "award_criteria": "Quality criterion - Name: Technical evaluation criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "373924-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " Securitas France Sarl"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 92130"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Issy-Les-Moulineux"
+                ],
+                "contractors_postal_address": [
+                    " 253 quai de la Bataille de Stalingrad"
+                ],
+                "total_value": "4 000 000.00 EUR",
+                "contract_no": "LISA-2018-RP-03",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79710000 Security services",
+            "type": "Services",
+            "total_value": "2 000 000.00 EUR",
+            "cpv_2": "35100000 Emergency and security equipment",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of Security Services and Equipment",
+            "award_criteria": "Quality criterion - Name: Technical Evalaution criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "373923-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " AS G4S EESTI"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 10617"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Tallinn"
+                ],
+                "contractors_postal_address": [
+                    " Paldiski MNT 80"
+                ],
+                "total_value": "2 000 000.00 EUR",
+                "contract_no": "LISA/2016/RP/03",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "50700000 Repair and maintenance services of building installations",
+            "type": "Services",
+            "total_value": "500 000.00 EUR",
+            "cpv_2": "NA",
+            "lots": "This contract is divided into lots: no",
+            "title": "Integrated Maintenance Services of eu-LISA’s Building and Technical Infrastructure in its Operational Site in Strasbourg, FRANCE",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "297628-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " Axima Concept S.A."
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 92930"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Paris-La-Défense"
+                ],
+                "contractors_postal_address": [
+                    " Tour T1, 1 place Samuel de Champlain, Faubourg de l’Arche"
+                ],
+                "total_value": "500 000.00 EUR",
+                "contract_no": "LISA/2018/NP/07",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "142 051 690.00 EUR",
+            "cpv_2": "72220000 Systems and technical consultancy services",
+            "lots": "This contract is divided into lots: no",
+            "title": "EES",
+            "award_criteria": "Quality criterion - Name: Technical offer / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "243528-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the Operational Management of Large-scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium",
+                    " Italy"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " BE BELGIQUE-BELGIË",
+                    " IT ITALIA"
+                ],
+                "contractors": [
+                    " Consortium IBM Belgium BVBA, Atos Belgium NV and Leonardo S.p.a, represented by the Group Leader IBM Belgium BVBA",
+                    " Atos Belgium NV",
+                    " Leonardo S.p.a"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " 1130",
+                    " 1930",
+                    " 00195"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Brussels",
+                    " Zaventem",
+                    " Rome"
+                ],
+                "contractors_postal_address": [
+                    " 42 avenue du Bourget",
+                    " Da Vincilaan 5",
+                    " Piazza Monte Grappa n. 4"
+                ],
+                "total_value": "142 051 690.00 EUR",
+                "contract_no": "1",
+                "number_tenders_received": "4"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "NA",
+            "cpv_2": "72200000 Software programming and consultancy services",
+            "lots": "This contract is divided into lots: no",
+            "title": "Framework Contract for Implementation and Maintenance in Working Order of the Biometrics Part of the Entry Exit System",
+            "award_criteria": "Quality criterion - Name: Technical offer / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "179790-2019",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [],
+                "contractors_country": [],
+                "contractors_nuts": [],
+                "contractors": [],
+                "group_economic_operators": "NA",
+                "contractors_postal_code": [],
+                "subcontracting": "NA",
+                "contractors_town": [],
+                "contractors_postal_address": [],
+                "total_value": "NA",
+                "contract_no": "NA",
+                "number_tenders_received": "NA"
+            }
+        ],
+        "year": "2019"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "39000000 Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products",
+            "type": "Supplies",
+            "total_value": "2 500 000.00 EUR",
+            "cpv_2": "39130000 Office furniture",
+            "lots": "This contract is divided into lots: no",
+            "title": "Framework Supply Contract for the Supply of Furniture for the New Building in eu-LISA’s Operational site in Strasbourg",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "538648-2018",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " Majencia S.A."
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 92210"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Saint Cloud"
+                ],
+                "contractors_postal_address": [
+                    " Espace Neoffice 24 a 24 bis 25 Quai Carnot"
+                ],
+                "total_value": "2 500 000.00 EUR",
+                "contract_no": "LISA/2017/OP/02",
+                "number_tenders_received": "3"
+            }
+        ],
+        "year": "2018"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79710000 Security services",
+            "type": "Services",
+            "total_value": "11 000 000.00 EUR",
+            "cpv_2": "79710000 Security services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of Security Services and Equipment",
+            "award_criteria": "Quality criterion - Name: Technical Evaluation criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "463855-2018",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5, 10415 Tallinn, Estonia"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " AS G4S Eesti"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 10614"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Tallinn"
+                ],
+                "contractors_postal_address": [
+                    " Paldiski mnt 80"
+                ],
+                "total_value": "1 500 000.00 EUR",
+                "contract_no": "LISA/2016/RP/03 Lot 2",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2018"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79000000 Business services: law, marketing, consulting, recruitment, printing and security",
+            "type": "Services",
+            "total_value": "17 900 000.00 EUR",
+            "cpv_2": "22000000 Printed matter and related products",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Integrated Communication Services, Event and Travel Management Services",
+            "award_criteria": "Quality criterion - Name: All criteria are stated in the procurement documents (tender specifications) / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "371708-2018",
+        "contracting_authority": {
+            "postal_code": "10415",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "Vesilennuki 5"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " yes"
+                ],
+                "contractors_country": [
+                    " Italy"
+                ],
+                "contractors_nuts": [
+                    " IT ITALIA"
+                ],
+                "contractors": [
+                    " Pomilio Blumm Srl"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 65121"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Pescara"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "900 000.00 EUR",
+                "contract_no": "LISA/2018/OP/01/01",
+                "number_tenders_received": "1"
+            },
+            {
+                "contractors_sme": [
+                    " yes",
+                    " yes"
+                ],
+                "contractors_country": [
+                    " Italy",
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " IT ITALIA",
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " Adria Congrex Srl",
+                    " Baltic Tours Ltd"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " 47922",
+                    " 10151"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Rimini",
+                    " Tallinn"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "14 500 000.00 EUR",
+                "contract_no": "LISA/2018/OP/01/02/01",
+                "number_tenders_received": "5"
+            },
+            {
+                "contractors_sme": [
+                    " yes",
+                    " yes"
+                ],
+                "contractors_country": [
+                    " France",
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE",
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " ProPager SARL (Leader)",
+                    " North East West South (NEWS) Travel SA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Paris",
+                    " Paris"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "14 500 000.00 EUR",
+                "contract_no": "LISA/2018/OP/01/02/02",
+                "number_tenders_received": "5"
+            },
+            {
+                "contractors_sme": [
+                    " yes"
+                ],
+                "contractors_country": [
+                    " Italy"
+                ],
+                "contractors_nuts": [
+                    " IT ITALIA"
+                ],
+                "contractors": [
+                    " Pomilio Blumm Srl"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 65121"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Pescara"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "14 500 000.00 EUR",
+                "contract_no": "LISA/2018/OP/01/02/03",
+                "number_tenders_received": "5"
+            },
+            {
+                "contractors_sme": [
+                    " yes",
+                    " yes",
+                    " yes"
+                ],
+                "contractors_country": [
+                    " Greece",
+                    " North Macedonia",
+                    " North Macedonia"
+                ],
+                "contractors_nuts": [
+                    " EL ΕΛΛΑΔΑ",
+                    " MK СЕВЕРНА МАКЕДОНИЈА (NORTH MACEDONIA)",
+                    " MK СЕВЕРНА МАКЕДОНИЈА (NORTH MACEDONIA)"
+                ],
+                "contractors": [
+                    " T and T Executive SA",
+                    " Company for trade and services Congress Service Center Vesna and dr. Ltd Skopje (Congress Service Center)",
+                    " Business, trade and services company Congress Travel Service DOO Skopje (Congress Travel Service DOO Skopje)"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Marousi, Athens",
+                    " Skopje",
+                    " Skopje"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "2 500 000.00 EUR",
+                "contract_no": "LISA/2018/OP/01/03",
+                "number_tenders_received": "7"
+            }
+        ],
+        "year": "2018"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "80 000 000.00 EUR",
+            "cpv_2": "72200000 Software programming and consultancy services",
+            "lots": "This contract is divided into lots: no",
+            "title": "SIS II MWO",
+            "award_criteria": "Quality criterion - Name: All criteria are stated only in the procurement documents (See internet address provided in Section I.1) / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "252094-2018",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Sopra Steria Benelux SA/NV"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " L-2925 Luxembourg"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_postal_address": [
+                    " rue du Fort Niedergrünewald"
+                ],
+                "total_value": "80 000 000.00 EUR",
+                "contract_no": "LISA/2017/RP/01",
+                "number_tenders_received": "3"
+            }
+        ],
+        "year": "2018"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "39000000 Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products",
+            "type": "Supplies",
+            "total_value": "1 000 000.00 EUR",
+            "cpv_2": "39130000 Office furniture",
+            "lots": "This contract is divided into lots: no",
+            "title": "Framework Supply Contract for the Supply of Furniture for the eu-LISA’s New Headquarters in Tallinn",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "id": "185937-2018",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Estonia"
+                ],
+                "contractors_nuts": [
+                    " EE EESTI"
+                ],
+                "contractors": [
+                    " Standard AS"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 10617"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Tallinn"
+                ],
+                "contractors_postal_address": [
+                    " Marja 9"
+                ],
+                "total_value": "1 000 000.00 EUR",
+                "contract_no": "LISA/2017/OP/05",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2018"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79710000 Security services",
+            "type": "Services",
+            "total_value": "NA",
+            "cpv_2": "79710000 Security services",
+            "lots": "This contract is divided into lots: yes",
+            "title": "Provision of Security Services and equipment",
+            "award_criteria": "Quality criterion - Name: Technical Evalaution criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "112096-2018",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [],
+                "contractors_country": [],
+                "contractors_nuts": [],
+                "contractors": [],
+                "group_economic_operators": "NA",
+                "contractors_postal_code": [],
+                "subcontracting": "NA",
+                "contractors_town": [],
+                "contractors_postal_address": [],
+                "total_value": "NA",
+                "contract_no": "NA",
+                "number_tenders_received": "NA"
+            }
+        ],
+        "year": "2018"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "22 690 000.00 EUR",
+            "cpv_2": "72200000 Software programming and consultancy services",
+            "lots": "This contract is divided into lots: no",
+            "title": "Eurodac MWO.",
+            "award_criteria": "Quality criterion - Name: Technical evaluation criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "467586-2017",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " France",
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " FR FRANCE",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Consortium Sopra Steria Benelux SA with Bull SAS and 3M Belgium BVBA/SPRL, group leader Sopra Steria Benelux SA",
+                    " BULL SAS",
+                    " 3M Belgium BVBA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " 1050",
+                    " 78340",
+                    " 1831"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Brussels",
+                    " Les Clayes sous Bois",
+                    " Diegem"
+                ],
+                "contractors_postal_address": [
+                    " avenue Arnaud Fraiteur 15/23",
+                    " 68 rue Jean Jaures",
+                    " Hermeslaan 7"
+                ],
+                "total_value": "22 690 000.00 EUR",
+                "contract_no": "LISA/2016/RP/01",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2017"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "79000000 Business services: law, marketing, consulting, recruitment, printing and security",
+            "type": "Services",
+            "total_value": "1 200 000.00 EUR",
+            "cpv_2": "79000000 Business services: law, marketing, consulting, recruitment, printing and security",
+            "lots": "This contract is divided into lots: yes",
+            "title": "LISA-2017-NP-13 (FWC LISA-2017-OP-01 lot 2).",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "381971-2017",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " France",
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " FR FRANCE",
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " Consortium Propager SARL",
+                    " North East West South (NEWS) Travel SA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": "NA",
+                "subcontracting": "",
+                "contractors_town": [
+                    " Paris",
+                    " Paris"
+                ],
+                "contractors_postal_address": "NA",
+                "total_value": "4 700 000.00 EUR",
+                "contract_no": "NA",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2017"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "40 000 000.00 EUR",
+            "cpv_2": "72220000 Systems and technical consultancy services",
+            "lots": "This contract is divided into lots: no",
+            "title": "Common shared infrastructure (CSI).",
+            "award_criteria": "Quality criterion - Name: Technical award criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "057156-2017",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Everis Spain SLU succursale en Belgique"
+                ],
+                "group_economic_operators": "no",
+                "contractors_postal_code": [
+                    " 1040"
+                ],
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_postal_address": [
+                    " avenue d'Auderghem 22–28"
+                ],
+                "total_value": "40 000 000.00 EUR",
+                "contract_no": "LISA/2016/RP/01",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2017"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "194 450 000.00 EUR",
+            "cpv_2": "NA",
+            "lots": "This contract is divided into lots: no",
+            "title": "Framework contract for the maintenance in working order of the visa information system (VIS) and biometrics matching system (BMS).",
+            "award_criteria": "Quality criterion - Name: Technical award criteria / Weighting: 60"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "id": "205449-2016",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium",
+                    " France"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " BE BELGIQUE-BELGIË",
+                    " FR FRANCE"
+                ],
+                "contractors": [
+                    " Consortium Bridge³, represented by the Group Leader Accenture NV/SA",
+                    " Consortium Bridge: consortium member Atos Belgium NV/SA",
+                    " Consortium Bridge³, consortium member Morpho SAS"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " 1000",
+                    " 1930",
+                    " 92130"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Brussels",
+                    " Zaventem",
+                    " Issy-les-Moulineaux"
+                ],
+                "contractors_postal_address": [
+                    " boulevard de Waterloo 16",
+                    " Da Vincilaan 5",
+                    " 11 boulevard Gallieni"
+                ],
+                "total_value": "194 450 000.00 EUR",
+                "contract_no": "LISA/2015/RP/02",
+                "number_tenders_received": "2"
+            }
+        ],
+        "year": "2016"
+    },
+    {
+        "object": {
+            "description": "",
+            "duration": "NA",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "total_value": "5 226 145.50 EUR",
+            "cpv_2": "72210000 Programming services of packaged software products",
+            "lots": "This contract is divided into lots: no",
+            "title": "Capacity increase Eurodac recast.",
+            "award_criteria": "Price"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "id": "146593-2016",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "EE001 Põhja-Eesti",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " France",
+                    " Belgium"
+                ],
+                "contractors_nuts": [
+                    " BE BELGIQUE-BELGIË",
+                    " FR FRANCE",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors": [
+                    " Consortium S3B, represented by the group leader Sopra Steria Benelux SA",
+                    " Consortium S3B, consortium member: Bull SAS",
+                    " Consortium S3B, consortium member: 3M Belgium BVBA"
+                ],
+                "group_economic_operators": "yes",
+                "contractors_postal_code": [
+                    " 1170",
+                    " 78340",
+                    " 1831"
+                ],
+                "subcontracting": "",
+                "contractors_town": [
+                    " Brussels",
+                    " Les Clayes-sous-Bois",
+                    " Diegem"
+                ],
+                "contractors_postal_address": [
+                    " boulevard du Souverain 36",
+                    " 68 rue Jean Jaurès",
+                    " Hermeslaan 7"
+                ],
+                "total_value": "5 226 145.50 EUR",
+                "contract_no": "LISA/2013/RP/01",
+                "number_tenders_received": "1"
+            }
+        ],
+        "year": "2016"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "Integration of new user (Croatia) in VIS (visa information system) — specific contract No 15 implementing framework contract No HOME-C2-2011-03 of 28.8.2012.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "245 009 EUR"
+        },
+        "procedure": {
+            "type": "Negotiated without a call for competition",
+            "award_criteria": "Lowest price"
+        },
+        "id": "438492-2015",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " boulevard de Waterloo 16"
+                ],
+                "total_value": "245 009 EUR",
+                "contract_no": "Specific contract No 15",
+                "contractors_postal_code": [
+                    " 1000"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Bridge3 consortium (leader: Accenture NV/SA)"
+                ],
+                "number_tenders_received": "1",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2015"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "LISA/2015/OP/01 Training, coaching and learning provision channel.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "2 000 000 EUR"
+        },
+        "procedure": {
+            "type": "Open",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "422703-2015",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Česká Lípa"
+                ],
+                "contractors_country": [
+                    " Czechia"
+                ],
+                "contractors_postal_address": [
+                    " Mimoňská 3223"
+                ],
+                "total_value": "2 000 000 EUR",
+                "contract_no": "LISA/2015/OP/01",
+                "contractors_postal_code": [
+                    " 470 01"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Everesta Sro"
+                ],
+                "number_tenders_received": "4",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            }
+        ],
+        "year": "2015"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "a) Realisation of VIS storage upgrade — specific contract No 13 implementing framework contract No HOME-C2-2011-03 of 28.8.2012.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "7 850 489,73 EUR"
+        },
+        "procedure": {
+            "type": "Negotiated without a call for competition",
+            "award_criteria": "Lowest price"
+        },
+        "id": "422702-2015",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels",
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " boulevard de Waterloo 16",
+                    " boulevard de Waterloo 16"
+                ],
+                "total_value": "2 847 242,02 EUR",
+                "contract_no": "Specific contract No 13",
+                "contractors_postal_code": [
+                    " 1000",
+                    " 1000"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Bridge3 consortium (leader: Accenture NV/SA)",
+                    " Bridge3 consortium (leader: Accenture NV/SA)"
+                ],
+                "number_tenders_received": "1",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2015"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "Realisation of an evolution concerning the visa information system (Visa Code changes plus) — specific contract No 12 implementing framework contract No HOME-C2-2011-03 of 28.8.2012.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "584 500 EUR"
+        },
+        "procedure": {
+            "type": "Negotiated without a call for competition",
+            "award_criteria": "Lowest price"
+        },
+        "id": "322636-2015",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Οperational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " boulevard de Waterloo 16"
+                ],
+                "total_value": "584 500 EUR",
+                "contract_no": "Specific contract No 12",
+                "contractors_postal_code": [
+                    " 1000"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Bridge3 Consortium (leader: Accenture NV/SA)"
+                ],
+                "number_tenders_received": "1",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2015"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "LISA/2014/OP/03 External support.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "56 601 711,13 EUR"
+        },
+        "procedure": {
+            "type": "Open",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "221695-2015",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " avenue du Bourget 20"
+                ],
+                "total_value": "25 663 093,35 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1130"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium U2 — Unisys SA (group leader) and UniSystems Information Technology Systems Commercial SA"
+                ],
+                "number_tenders_received": "7",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            },
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " Waterloolaan 16"
+                ],
+                "total_value": "25 663 093,35 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1000"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium ALT+ENTER, consisting of Accenture SA (group leader) and Altran Technologies SA"
+                ],
+                "number_tenders_received": "7",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            },
+            {
+                "contractors_town": [
+                    " Les Clayes-sous-Bois"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_postal_address": [
+                    " rue Jean Jaurès, BP 68"
+                ],
+                "total_value": "25 663 093,35 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 78340"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium Bull–Atos–Ernst & Young, consisting of Bull SAS (group leader), Atos Integration SAS and Ernst & Young et Associés"
+                ],
+                "number_tenders_received": "7",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            },
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " Waterloolaan 16"
+                ],
+                "total_value": "21 451 501,78 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1000"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium ACTO, consisting of Accenture SA (group leader) and Tieto Estonia AS"
+                ],
+                "number_tenders_received": "7",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            },
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " avenue du Bourget 20"
+                ],
+                "total_value": "21 451 501,78 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1130"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium U2 — Unisys SA (group leader) and UniSystems Information Technology Systems Commercial SA"
+                ],
+                "number_tenders_received": "7",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            },
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " avenue d'Auderghem 22–28"
+                ],
+                "total_value": "21 451 501,78 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1040"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Tarkus consortium, consisting of Everis Spain SLU succursale en Belgique (group leader), Deloitte Consulting CVBA and AS CGI Eesti"
+                ],
+                "number_tenders_received": "7",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            },
+            {
+                "contractors_town": [
+                    " Luxembourg"
+                ],
+                "contractors_country": [
+                    " Luxembourg"
+                ],
+                "contractors_postal_address": [
+                    " 62, rue Charles Martel"
+                ],
+                "total_value": "3 572 116 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 2134"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " infeurope SA"
+                ],
+                "number_tenders_received": "2",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            },
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " avenue des Communautés 110"
+                ],
+                "total_value": "3 572 116 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1200"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " ManpowerGroup Solutions Belgium SA"
+                ],
+                "number_tenders_received": "2",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            },
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " avenue des Communautés 110"
+                ],
+                "total_value": "5 915 000 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1200"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " ManpowerGroup Solutions Belgium SA"
+                ],
+                "number_tenders_received": "2",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            },
+            {
+                "contractors_town": [
+                    " Tartu"
+                ],
+                "contractors_country": [
+                    " Estonia"
+                ],
+                "contractors_postal_address": [
+                    " Riia 24a"
+                ],
+                "total_value": "5 915 000 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 51010"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium Civitta, consisting of Civitta Eesti AS (group leader), Innopolis Insenerid OÜ and Civitta UAB"
+                ],
+                "number_tenders_received": "2",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            }
+        ],
+        "year": "2015"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "LISA/2014/NP/14 Amendment No 1 to framework contract LISA/2013/NP/02-bis (execution of works at the eu-LISA back-up site in Sankt Johann im Pongau, Austria).",
+            "cpv": "",
+            "type": "Works",
+            "total_value": "500 000 EUR"
+        },
+        "procedure": {
+            "type": "Negotiated without a call for competition",
+            "award_criteria": "Lowest price"
+        },
+        "id": "369424-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Οperational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Vienna"
+                ],
+                "contractors_country": [
+                    " Austria"
+                ],
+                "contractors_postal_address": [
+                    " Pfarrgasse 75"
+                ],
+                "total_value": "500 000 EUR",
+                "contract_no": "LISA/2014/NP/14",
+                "contractors_postal_code": [
+                    " 1230"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " ELIN GmbH & Co KG"
+                ],
+                "number_tenders_received": "1",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            }
+        ],
+        "year": "2014"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "LISA/2014/OP/01 Communication and events.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "5 000 000 EUR"
+        },
+        "procedure": {
+            "type": "Open",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "332868-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, 6 floor, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels",
+                    " Paris"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " France"
+                ],
+                "contractors_postal_address": [
+                    " chaussée d'Alsemberg 1001",
+                    " 70 boulevard de Reuilly"
+                ],
+                "total_value": "1 500 000 EUR",
+                "contract_no": "LISA/2014/OP/01/1 Lot No: 1 - Lot title: Integrated communication services",
+                "contractors_postal_code": [
+                    " 1180",
+                    " 75012"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Mostra SA",
+                    " Consortium Propager SARL and North East West South (NEWS) Travel SA"
+                ],
+                "number_tenders_received": "3",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2014"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "Realisation of an evolution (so-called 'BMS 2.0') — amendment No 1 to SC No 11 of 10.6.2014 implementing MWO FWC 'HOME-C2-2011-03' of 28.8.2012.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "23 697 450,85 EUR"
+        },
+        "procedure": {
+            "type": "Negotiated without a call for competition",
+            "award_criteria": "Lowest price"
+        },
+        "id": "261497-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Οperational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, 6th floor, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " boulevard Waterloo 16"
+                ],
+                "total_value": "23 697 450,85 EUR",
+                "contract_no": "NA",
+                "contractors_postal_code": [
+                    " 1000"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Bridge3 Consortium (leader: Accenture NV/SA)"
+                ],
+                "number_tenders_received": "1",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2014"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "LISA/2013/RP/01 Eurodac recast.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "7 487 861,65 EUR"
+        },
+        "procedure": {
+            "type": "Restricted",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "253801-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Brussels"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " boulevard du Souverain 36"
+                ],
+                "total_value": "7 487 861,65 EUR",
+                "contract_no": "LISA/2014/RP/01",
+                "contractors_postal_code": [
+                    " 1170"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Consortium S3B, consisting of Steria Benelux SA/NV (group leader), 3M Belgium BVBA/SPRL, Bull SAS"
+                ],
+                "number_tenders_received": "2",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2014"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "Integrated building and technical infrastructure maintenance services at the eu-LISA's operational centre in Strasbourg.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "1 100 000 EUR"
+        },
+        "procedure": {
+            "type": "Restricted",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "246770-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Οperational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, 6th floor, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Paris"
+                ],
+                "contractors_country": [
+                    " France"
+                ],
+                "contractors_postal_address": [
+                    " Tour Voltaire 1, place des Degrés"
+                ],
+                "total_value": "1 100 000 EUR",
+                "contract_no": "13-2014-01",
+                "contractors_postal_code": [
+                    " 92059"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Axima Concept"
+                ],
+                "number_tenders_received": "2",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            }
+        ],
+        "year": "2014"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "Framework contract for the maintenance in working order of the Schengen information system II (MWO SIS II).",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "50 000 000 EUR"
+        },
+        "procedure": {
+            "type": "Restricted",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "123203-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "eulisa-procurement@eulisa.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Zaventem"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_postal_address": [
+                    " Da Vincilaan 5"
+                ],
+                "total_value": "50 000 000 EUR",
+                "contract_no": "LISA/2014/RP/02",
+                "contractors_postal_code": [
+                    " 1935"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " ATOS Belgium SA/NV (leader), Accenture NV/SA (member), and Hewlett Packard Belgium BVBA/SPRL (member)"
+                ],
+                "number_tenders_received": "3",
+                "subcontracting": "The contract is likely to be sub-contracted: yes"
+            }
+        ],
+        "year": "2014"
+    },
+    {
+        "object": {
+            "description": "NA",
+            "title": "Security guard and reception services at the European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice, for Tallinn, Estonia and Strasbourg, France.",
+            "cpv": "",
+            "type": "Services",
+            "total_value": "3 092 146 EUR"
+        },
+        "procedure": {
+            "type": "Restricted",
+            "award_criteria": "The most economically advantageous tender in terms of"
+        },
+        "id": "026876-2014",
+        "contracting_authority": {
+            "postal_code": "10143",
+            "email": "home-eulisa-procurement@ec.europa.eu",
+            "country": "Estonia",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services",
+            "nuts": "NA",
+            "official_name": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+            "town": "Tallinn",
+            "postal_address": "EU House, Rävala pst 4"
+        },
+        "award_of_contracts": [
+            {
+                "contractors_town": [
+                    " Strasbourg",
+                    " Tallinn"
+                ],
+                "contractors_country": [
+                    " France",
+                    " Estonia"
+                ],
+                "contractors_postal_address": [
+                    " 6 rue de Copenhague",
+                    " A. H. Tammsaare tee 25"
+                ],
+                "total_value": "2 898 268 EUR",
+                "contract_no": "LISA-2013-2003-1 Lot No: 1 - Lot title: Security guard and reception services at the European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice, Strasbourg, France",
+                "contractors_postal_code": [
+                    " 67014",
+                    " 11314"
+                ],
+                "group_economic_operators": "NA",
+                "contractors": [
+                    " Securitas France SARL",
+                    " AS G4S Eesti"
+                ],
+                "number_tenders_received": "1",
+                "subcontracting": "The contract is likely to be sub-contracted: no"
+            }
+        ],
+        "year": "2014"
+    }
+]
