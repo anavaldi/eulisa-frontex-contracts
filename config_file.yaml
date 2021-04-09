@@ -1,5 +1,0 @@
-ROOT_PATH: '/home/avaldivia/kcl/security_flows'
-UTILS_PATH: '/utils'
-DATA_PATH: '/data'
-IMAGES_PATH: '/images'
-AGENCY: 'frontex' # type 'eulisa' or 'frontex' 
