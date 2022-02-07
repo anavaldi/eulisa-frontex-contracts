@@ -1,0 +1,839 @@
+source,target,weight_scale
+Accenture, Atos,2
+Accenture, Morpho,2
+ Atos, Morpho,2
+Accenture, Atos,1
+Accenture, Morpho,1
+ Atos, Morpho,1
+U2 Consortium Unisys SA (group leader) and UniSystems Information Technology Systems Commercial SA,U2 Consortium Unisys SA (group leader) and UniSystems Information Technology Systems Commercial SA,7
+Accenture, Altran Technologies SA,7
+Bull, Atos Integration SAS,7
+Bull, Ernst & Young et Associés,7
+ Atos Integration SAS, Ernst & Young et Associés,7
+Accenture, Tieto Estonia AS,6
+U2 Consortium Unisys SA (group leader) and UniSystems Information Technology Systems Commercial SA,U2 Consortium Unisys SA (group leader) and UniSystems Information Technology Systems Commercial SA,6
+ Everis Spain SLU succursale en Belgique , Deloitte Consulting CVBA,6
+ Everis Spain SLU succursale en Belgique , AS CGI Eesti,6
+ Deloitte Consulting CVBA, AS CGI Eesti,6
+ infeurope SA, infeurope SA,2
+ ManpowerGroup Solutions Belgium SA, ManpowerGroup Solutions Belgium SA,2
+ ManpowerGroup Solutions Belgium SA, ManpowerGroup Solutions Belgium SA,2
+ Civitta Eesti AS , Innopolis Insenerid OÜ,2
+ Civitta Eesti AS , Civitta UAB,2
+ Innopolis Insenerid OÜ, Civitta UAB,2
+ELIN GmbH,ELIN GmbH,1
+Propager SARL, North East West South NEWS Travel SA,1
+Accenture, Atos,6
+Accenture, Morpho,6
+ Atos, Morpho,6
+Sopra Steria,Bull,3
+Sopra Steria, Gemalto Cogent,3
+Bull, Gemalto Cogent,3
+Axima Concept SA,Axima Concept SA,1
+3M Belgium BVBA,Accenture,12
+3M Belgium BVBA,Hewlett Packard Belgium BVBA/SPRL ,12
+Accenture,Hewlett Packard Belgium BVBA/SPRL ,12
+ Securitas France SARL, AS G4S Eesti,2
+ Qvalitas Arstikeskus AS, Qvalitas Arstikeskus AS,1
+ SPIE Facilities, SPIE Facilities,2
+ ES Energies Strasbourg, ES Energies Strasbourg,1
+ Securitas France Sarl, Securitas France Sarl,2
+AS G4S Eesti,AS G4S Eesti,1
+Axima Concept SA,Axima Concept SA,1
+3M Belgium BVBA, Atos,33
+3M Belgium BVBA,Leonardo,33
+ Atos,Leonardo,33
+ Majencia S.A., Majencia S.A.,2
+AS G4S Eesti,AS G4S Eesti,1
+ Pomilio Blumm Srl, Pomilio Blumm Srl,1
+ Adria Congrex Srl, Baltic Tours Ltd,4
+ ProPager SARL , North East West South NEWS Travel SA,4
+ Pomilio Blumm Srl, Pomilio Blumm Srl,4
+ T and T Executive SA, Company for trade and services Congress Service Center Vesna and dr. Ltd Skopje Congress Service Center,2
+ T and T Executive SA, Business trade and services company Congress Travel Service DOO Skopje Congress Travel Service DOO Skopje,2
+ Company for trade and services Congress Service Center Vesna and dr. Ltd Skopje Congress Service Center, Business trade and services company Congress Travel Service DOO Skopje Congress Travel Service DOO Skopje,2
+Sopra Steria,Sopra Steria,19
+ Standard AS, Standard AS,1
+Sopra Steria,Bull,6
+Sopra Steria,3M Belgium BVBA,6
+Sopra Steria,Sopra Steria,6
+Sopra Steria,Bull,6
+Sopra Steria,3M Belgium BVBA,6
+Bull,3M Belgium BVBA,6
+Bull,Sopra Steria,6
+Bull,Bull,6
+Bull,3M Belgium BVBA,6
+3M Belgium BVBA,Sopra Steria,6
+3M Belgium BVBA,Bull,6
+3M Belgium BVBA,3M Belgium BVBA,6
+Sopra Steria,Bull,6
+Sopra Steria,3M Belgium BVBA,6
+Bull,3M Belgium BVBA,6
+Propager SARL, North East West South NEWS Travel SA,2
+ Everis Spain SLU succursale en Belgique, Everis Spain SLU succursale en Belgique,10
+Accenture, Atos,45
+Accenture, Morpho,45
+ Atos, Morpho,45
+Sopra Steria,Bull,2
+Sopra Steria, Gemalto Cogent,2
+Bull, Gemalto Cogent,2
+Accenture, Atos,1
+Accenture, Morpho,1
+ Atos, Morpho,1
+ Everesta Sro, Everesta Sro,1
+ Alsacafe Automates, Alsacafe Automates,1
+ LK – Voyages Lucien Kunegel, LK – Voyages Lucien Kunegel,1
+ Scop Espaces Verts, Scop Espaces Verts,1
+ Indra Soluciones Tecnologías de la Información S. L. U , I.R.I.S. Solutions & Experts S.A.,41
+ CGI France SAS, CGI France SAS,41
+ ONET Services, ONET Services,1
+ ERGO Insurance SE, ERGO Insurance SE,1
+Sopra Steria,Sopra Steria,10
+ AXIMA Concept (commercial name: ENGIE Solutions S.A.), AXIMA Concept (commercial name: ENGIE Solutions S.A.),3
+ AS Infotark, AS Infotark,1
+ Lyreco France SAS, Lyreco France SAS,1
+ Unisys Belgium NV/SA, Unisystems Luxembourg SARL,42
+ Unisys Belgium NV/SA, Wavestone SA,42
+ Unisystems Luxembourg SARL, Wavestone SA,42
+ International Business Machines of Belgium SA, Leonardo SPA,42
+Accenture,Accenture,42
+ Everis Belgique SPRL  of Ecos Consortium, Cancom On Line BV,100
+ Everis Belgique SPRL  of Ecos Consortium,Sopra Steria,100
+ Everis Belgique SPRL  of Ecos Consortium, Hellenic Telecommunications Organization OTE S.A.,100
+ Cancom On Line BV,Sopra Steria,100
+ Cancom On Line BV, Hellenic Telecommunications Organization OTE S.A.,100
+Sopra Steria, Hellenic Telecommunications Organization OTE S.A.,100
+ANTTIS,3M Belgium BVBA,100
+ Intrasoft International SA, Intrasoft International SA,43
+Atos,Atos,43
+European Dynamics,European Dynamics,43
+Sopra Steria, Everis Belgique SPRL,43
+ ARHS Developments SA , Sword Technologies SA,43
+ 365JP OÜ, 365JP OÜ,1
+Idemia,Sopra Steria,69
+ Unisys Belgium SA, PwC EU Services EESV,4
+ Unisys Belgium SA, UniSystems Information Technology Systems Commercial SMSA,4
+ PwC EU Services EESV, UniSystems Information Technology Systems Commercial SMSA,4
+Infeurope SA,Infeurope SA,2
+ Civitta Eesti AS, Advokaadiburoo Sorainen AS,2
+ Vector Synergy Spolka z Ograniczona Odpowiedzianoscia, Vector Synergy Spolka z Ograniczona Odpowiedzianoscia,2
+ Unisys Belgium SA, PwC EU Services EESV,11
+ Unisys Belgium SA, UniSystems Information Technology Systems Commercial SMSA,11
+ PwC EU Services EESV, UniSystems Information Technology Systems Commercial SMSA,11
+ CGITI Portugal SA, CGITI Portugal SA,11
+ Engineering Ingegneria Informatica S.p.A., Engineering Ingegneria Informatica S.p.A.,11
+Infeurope SA,Infeurope SA,4
+ Civitta Eesti AS, Advokaadiburoo Sorainen AS,4
+ Vector Synergy Spolka z Ograniczona Odpowiedzianoscia, Vector Synergy Spolka z Ograniczona Odpowiedzianoscia,4
+Infeurope SA,Infeurope SA,2
+ELIN GmbH,ELIN GmbH,2
+ Ingeniería de Sistemas para la Defensa de España SA, Ingeniería de Sistemas para la Defensa de España SA,1
+ GMV Aerospace and Defence S.A.U., GMV Aerospace and Defence S.A.U.,4
+ MeteoGroup Polska Sp. z o.o., MeteoGroup Polska Sp. z o.o.,1
+ Events Center Creative Agency Krzysztof Koczur, Events Center Creative Agency Krzysztof Koczur,1
+ Belvedere — Cafe Łazienki Królewskie Sp. z o.o., Belvedere — Cafe Łazienki Królewskie Sp. z o.o.,1
+ Events Center Creative Agency Koczur Krzysztof, Events Center Creative Agency Koczur Krzysztof,1
+ Events Center Creative Agency Koczur Krzysztof, Events Center Creative Agency Koczur Krzysztof,1
+ Ever Grupa Sp. z o.o., Ever Grupa Sp. z o.o.,1
+ Atos IT Solutions and Services Iberia S.L., Atos IT Solutions and Services Iberia S.L.,1
+ Espes Office Sp. z o.o., Espes Office Sp. z o.o.,1
+ Espes Office Sp. z o.o., Espes Office Sp. z o.o.,1
+ Espes Office Sp. z o.o., Espes Office Sp. z o.o.,1
+ New Technology Poland S.A., New Technology Poland S.A.,1
+ Art'Impression Catering Sp. z o.o., Wencel Sp. z o.o.,1
+ Securitas Polska Sp. z o.o., Securitas Polska Sp. z o.o.,1
+ Asseco Poland S.A., Asseco Poland S.A.,1
+,,1
+ Diamond-Executive Aviation, Diamond-Executive Aviation,1
+ GAF AG, GAF AG,1
+ Netcompany IT and Business Consulting A/S, Netcompany IT and Business Consulting A/S,1
+ Vagia Tzislaki — Lesvorama General Travel Agency, Vagia Tzislaki — Lesvorama General Travel Agency,1
+ Vagia Tzislaki — Lesvorama General Travel Agency, Vagia Tzislaki — Lesvorama General Travel Agency,1
+ Adria Congrex srl, Adria Congrex srl,2
+ Microsoft Sp. z o.o., Microsoft Sp. z o.o.,1
+ BoldBrick s.r.o., Fabrity K2 Sp. z o.o.,2
+ BoldBrick s.r.o., IT-Dev Sp. z o.o.,2
+ Fabrity K2 Sp. z o.o., IT-Dev Sp. z o.o.,2
+ Netcompany IT and Business Consulting A/S, Netcompany IT and Business Consulting A/S,1
+ Carmenta AB, Carmenta AB,1
+of Agence Gemra, BTCS Sp. z o.o.,1
+of Agence Gemra, GTC AMG Sp. z o.o.,1
+ BTCS Sp. z o.o., GTC AMG Sp. z o.o.,1
+ Asseco Poland SA, Asseco Poland SA,2
+ Grafton Recruitment Polska Sp. z o.o., Grafton Recruitment Polska Sp. z o.o.,1
+ Zeticon NV, Zeticon NV,1
+ Wisag Polska Sp. z o.o., Wisag Polska Sp. z o.o.,1
+ Opticoelectron Group, Opticoelectron Group,1
+ Opticoelectron Group, Opticoelectron Group,1
+of Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel,1
+of Oktagon Polska Paweł Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel,1
+ AndRee GROUP Andrzej Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel,1
+ e-GEOS SPA, Telespazio France SAS,1
+ Israel Aerospace Industries Limited, Malat Division,2
+ Leonardo SPA, Leonardo SPA,1
+ AS Aircontact, Air Charter Service Limited,5
+ AS Aircontact, Air Charter Service Limited,1
+ Control system FMN Sp z oo, Control system FMN Sp z oo,1
+ Uni Business Centre BV, Nextis services s.r.o.,1
+ Uni Business Centre BV, AutoCont CZ a.s.,1
+ Uni Business Centre BV, Bechtle direct Polska sp z oo,1
+ Nextis services s.r.o., AutoCont CZ a.s.,1
+ Nextis services s.r.o., Bechtle direct Polska sp z oo,1
+ AutoCont CZ a.s., Bechtle direct Polska sp z oo,1
+ Profil nabytek as, Profil nabytek as,1
+ Arch sc Mirosława Nowicka Marek Nowicki, Arch sc Mirosława Nowicka Marek Nowicki,1
+ MeteoGroup Nederland B.V., MeteoGroup Nederland B.V.,2
+ Dotsoft SA, Epsilon Malta Ltd,1
+ Asseco Poland SA, ESRI Polska Sp. z o.o.,1
+ GeneGIS GI Srl (former GESP Srl), GeneGIS GI Srl (former GESP Srl),1
+ BATEX Technische Textilien GmbH, BATEX Technische Textilien GmbH,1
+ Pentacomp Systemy Informatyczne S.A., Pentacomp Systemy Informatyczne S.A.,1
+ Fabrity K2 Sp. z o.o., Fabrity K2 Sp. z o.o.,1
+ Netcompany IT and Business Consulting A/S, Netcompany IT and Business Consulting A/S,1
+ SAS Institute Polska Sp. z o.o., SAS Institute Polska Sp. z o.o.,1
+ Sunrise Lines E.P.E. (Ltd), Sunrise Lines E.P.E. (Ltd),1
+ Pantelopoulos Panagiotis, Pantelopoulos Panagiotis,1
+ Samwell Limited, Samwell Limited,1
+ InfoCert S.p.A., InfoCert S.p.A.,1
+ Polkomtel Sp. z o.o., Polkomtel Sp. z o.o.,1
+ SAS Institute Polska Sp. z o.o., SAS Institute Polska Sp. z o.o.,1
+ IN-innovative navigation GmbH, IN-innovative navigation GmbH,1
+ Andree Group Andrzej Toffel, Decuatro Marketing Promocional S.L.,1
+ Andree Group Andrzej Toffel, IGEP SA/NV,1
+ Decuatro Marketing Promocional S.L., IGEP SA/NV,1
+ DC System Company Sp z oo, DC System Company Sp z oo,1
+ Asseco Poland SA, Asseco Poland SA,3
+ Ricardo Nederland BV, Ricardo-AEA Ltd,1
+ Fleischhacker GmbH and Co. KG, Fleischhacker GmbH and Co. KG,1
+ Art’ Impression Catering Sp. z o.o., Art’ Impression Catering Sp. z o.o.,1
+ Car Master 2 sp. z o.o. sp.k., Car Master 2 sp. z o.o. sp.k.,1
+ Pomilio Blumm SRL, Pomilio Blumm SRL,4
+ Jarosław Sztobryn Prooffice, Jarosław Sztobryn Prooffice,1
+ Regula Baltija Ltd, Regula Baltija Ltd,1
+ Regula Baltija Ltd, Regula Baltija Ltd,1
+ GMV Aerospace and Defence SAU, GMV Aerospace and Defence SAU,4
+ ZRB Walko Waldemar Koński, ZRB Walko Waldemar Koński,1
+ Opticoelectron Group JSCo, Opticoelectron Group JSCo,1
+ Windward Ltd, Windward Ltd,1
+ Bene Warszawa Sp ZOO, Bene Warszawa Sp ZOO,2
+ Espes Office Sp ZOO, Espes Office Sp ZOO,1
+ Bene Warszawa Sp ZOO, Bene Warszawa Sp ZOO,1
+ Diamond-Executive Aviation Ltd, Diamond-Executive Aviation Ltd,4
+ CAE Aviation Sarl, CAE Aviation Sarl,4
+ EASP Air BV, EASP Air BV,4
+ Indra Sistemas SA, Indra Sistemas SA,4
+ City & Guilds of London Institute, City & Guilds of London Institute,1
+ Optexim AD, Optexim AD,1
+ OPTIX JSC, OPTIX JSC,1
+ CAE Aviation, DEA Aviation,3
+ CAE Aviation, EASP Air BV,3
+ DEA Aviation, EASP Air BV,3
+ Opticoelectron Group JSCo, Opticoelectron Group JSCo,2
+ Instytut Systemów Bezpieczeństwa Sp. z o.o., ClanTect Ltd,1
+ Hawkeye 360, Inc.,1
+ Brill AV Media Sp z oo, Brill AV Media Sp z oo,1
+ Lazaris A. Gomos D. OE, Lazaris A. Gomos D. OE,1
+ Softwin SRL, Intrasoft International S.A.,1
+ Softwin SRL, Pecka Studio s.r.o.,1
+ Intrasoft International S.A., Pecka Studio s.r.o.,1
+ Kaliszuk sp j staff partners, Outworking SA,2
+ Kaliszuk sp j staff partners, Grafton Recruitment Sp z oo,2
+ Kaliszuk sp j staff partners, GI Group Sp z oo,2
+ Outworking SA, Grafton Recruitment Sp z oo,2
+ Outworking SA, GI Group Sp z oo,2
+ Grafton Recruitment Sp z oo, GI Group Sp z oo,2
+ TEKNE Srl, TEKNE Srl,1
+ GTC AMG sp. z o.o., GTC AMG sp. z o.o.,1
+ Nord Partner sp. z o.o., Nord Partner sp. z o.o.,1
+ ESRI Polska, ESRI Polska,1
+ CAE Aviation, DEA Aviation Ltd,2
+ CAE Aviation, Airborne Technologies GmbH,2
+ CAE Aviation, Fly4Less Kft,2
+ DEA Aviation Ltd, Airborne Technologies GmbH,2
+ DEA Aviation Ltd, Fly4Less Kft,2
+ Airborne Technologies GmbH, Fly4Less Kft,2
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ CAE Aviation, DEA Aviation,3
+ CAE Aviation, EASP Air BV,3
+ DEA Aviation, EASP Air BV,3
+ CAE Aviation, DEA Aviation,4
+ CAE Aviation, EASP Air BV,4
+ DEA Aviation, EASP Air BV,4
+ eTravel SA, eTravel SA,5
+ Defacto Sp z oo, Defacto Sp z oo,2
+ CAE Aviation, DEA Aviation Ltd,1
+ CAE Aviation, Airborne Technologies GmbH,1
+ CAE Aviation, Fly4Less Kft,1
+ DEA Aviation Ltd, Airborne Technologies GmbH,1
+ DEA Aviation Ltd, Fly4Less Kft,1
+ Airborne Technologies GmbH, Fly4Less Kft,1
+ CAE Aviation, DEA Aviation Ltd,2
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ CAE Aviation, DEA Aviation,3
+ CAE Aviation, EASP Air BV,3
+ DEA Aviation, EASP Air BV,3
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ Air Charter Service Ltd, AS Aircontact,2
+ eTravel SA, eTravel SA,8
+ Car Master 2 Sp. z o.o. Sp.k, Car Master 2 Sp. z o.o. Sp.k,1
+ Carmenta AB, Carmenta AB,1
+ VISION BOX -SOLUCOES DE VISAO PORCOMPUTADOR SA, VISION BOX -SOLUCOES DE VISAO PORCOMPUTADOR SA,1
+ EVERIS AEROESPACIAL Y DEFENSA SL, EVERIS AEROESPACIAL Y DEFENSA SL,1
+ GAF AG, GAF AG,2
+ Atende SA, Atende SA,1
+ATOS POLSKA S.A. , UNI Systems Information Technology Systems Commercial S.M.S.A. Partner,9
+ATOS POLSKA S.A. , UNI Systems Luxembourg S.a.r.l. Partner,9
+ATOS POLSKA S.A. , Computer Resources International S.A. Partner,9
+ATOS POLSKA S.A. , Avalon Tecnologías de la Información S.L.,9
+ATOS POLSKA S.A. , Engineering Ingegneria Informatica S.P.A.,9
+ATOS POLSKA S.A. , Fabrity SP. Z O.O.,9
+ATOS POLSKA S.A. , JIT Team SP. Z O.O.,9
+ATOS POLSKA S.A. , Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ATOS POLSKA S.A. , FINCONS S.P.A. Partner,9
+ATOS POLSKA S.A. , PWC EU Services EESV ,9
+ATOS POLSKA S.A. , PWC IT Services SP. Z O.O. Partner,9
+ATOS POLSKA S.A. , Soitron Group SE,9
+ATOS POLSKA S.A. , Trasys International G.E.I.E.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, UNI Systems Luxembourg S.a.r.l. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Computer Resources International S.A. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Avalon Tecnologías de la Información S.L.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Engineering Ingegneria Informatica S.P.A.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Fabrity SP. Z O.O.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, JIT Team SP. Z O.O.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, FINCONS S.P.A. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, PWC EU Services EESV ,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, PWC IT Services SP. Z O.O. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Soitron Group SE,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Trasys International G.E.I.E.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Computer Resources International S.A. Partner,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Avalon Tecnologías de la Información S.L.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Engineering Ingegneria Informatica S.P.A.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Fabrity SP. Z O.O.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, JIT Team SP. Z O.O.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ UNI Systems Luxembourg S.a.r.l. Partner, FINCONS S.P.A. Partner,9
+ UNI Systems Luxembourg S.a.r.l. Partner, PWC EU Services EESV ,9
+ UNI Systems Luxembourg S.a.r.l. Partner, PWC IT Services SP. Z O.O. Partner,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Soitron Group SE,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Trasys International G.E.I.E.,9
+ Computer Resources International S.A. Partner, Avalon Tecnologías de la Información S.L.,9
+ Computer Resources International S.A. Partner, Engineering Ingegneria Informatica S.P.A.,9
+ Computer Resources International S.A. Partner, Fabrity SP. Z O.O.,9
+ Computer Resources International S.A. Partner, JIT Team SP. Z O.O.,9
+ Computer Resources International S.A. Partner, Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Computer Resources International S.A. Partner, FINCONS S.P.A. Partner,9
+ Computer Resources International S.A. Partner, PWC EU Services EESV ,9
+ Computer Resources International S.A. Partner, PWC IT Services SP. Z O.O. Partner,9
+ Computer Resources International S.A. Partner, Soitron Group SE,9
+ Computer Resources International S.A. Partner, Trasys International G.E.I.E.,9
+ Avalon Tecnologías de la Información S.L., Engineering Ingegneria Informatica S.P.A.,9
+ Avalon Tecnologías de la Información S.L., Fabrity SP. Z O.O.,9
+ Avalon Tecnologías de la Información S.L., JIT Team SP. Z O.O.,9
+ Avalon Tecnologías de la Información S.L., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Avalon Tecnologías de la Información S.L., FINCONS S.P.A. Partner,9
+ Avalon Tecnologías de la Información S.L., PWC EU Services EESV ,9
+ Avalon Tecnologías de la Información S.L., PWC IT Services SP. Z O.O. Partner,9
+ Avalon Tecnologías de la Información S.L., Soitron Group SE,9
+ Avalon Tecnologías de la Información S.L., Trasys International G.E.I.E.,9
+ Engineering Ingegneria Informatica S.P.A., Fabrity SP. Z O.O.,9
+ Engineering Ingegneria Informatica S.P.A., JIT Team SP. Z O.O.,9
+ Engineering Ingegneria Informatica S.P.A., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Engineering Ingegneria Informatica S.P.A., FINCONS S.P.A. Partner,9
+ Engineering Ingegneria Informatica S.P.A., PWC EU Services EESV ,9
+ Engineering Ingegneria Informatica S.P.A., PWC IT Services SP. Z O.O. Partner,9
+ Engineering Ingegneria Informatica S.P.A., Soitron Group SE,9
+ Engineering Ingegneria Informatica S.P.A., Trasys International G.E.I.E.,9
+ Fabrity SP. Z O.O., JIT Team SP. Z O.O.,9
+ Fabrity SP. Z O.O., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Fabrity SP. Z O.O., FINCONS S.P.A. Partner,9
+ Fabrity SP. Z O.O., PWC EU Services EESV ,9
+ Fabrity SP. Z O.O., PWC IT Services SP. Z O.O. Partner,9
+ Fabrity SP. Z O.O., Soitron Group SE,9
+ Fabrity SP. Z O.O., Trasys International G.E.I.E.,9
+ JIT Team SP. Z O.O., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ JIT Team SP. Z O.O., FINCONS S.P.A. Partner,9
+ JIT Team SP. Z O.O., PWC EU Services EESV ,9
+ JIT Team SP. Z O.O., PWC IT Services SP. Z O.O. Partner,9
+ JIT Team SP. Z O.O., Soitron Group SE,9
+ JIT Team SP. Z O.O., Trasys International G.E.I.E.,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , FINCONS S.P.A. Partner,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , PWC EU Services EESV ,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , PWC IT Services SP. Z O.O. Partner,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , Soitron Group SE,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , Trasys International G.E.I.E.,9
+ FINCONS S.P.A. Partner, PWC EU Services EESV ,9
+ FINCONS S.P.A. Partner, PWC IT Services SP. Z O.O. Partner,9
+ FINCONS S.P.A. Partner, Soitron Group SE,9
+ FINCONS S.P.A. Partner, Trasys International G.E.I.E.,9
+ PWC EU Services EESV , PWC IT Services SP. Z O.O. Partner,9
+ PWC EU Services EESV , Soitron Group SE,9
+ PWC EU Services EESV , Trasys International G.E.I.E.,9
+ PWC IT Services SP. Z O.O. Partner, Soitron Group SE,9
+ PWC IT Services SP. Z O.O. Partner, Trasys International G.E.I.E.,9
+ Soitron Group SE, Trasys International G.E.I.E.,9
+ Windward Ltd, Windward Ltd,1
+ Steinbeis 2I GMBH, Steinbeis 2I GMBH,1
+ in-innovative navigation GmbH, CNIM AIR SPACE SAS,2
+ Bechtle Brussels NV, Bechtle Brussels NV,1
+ CAE Aviation, CAE Aviation,2
+ DEA Aviation, DEA Aviation,2
+ Cambridge School of English Sp. z o.o., Cambridge School of English Sp. z o.o.,1
+ Cambridge School of English Sp. z o.o., Cambridge School of English Sp. z o.o.,1
+ DSV Air and Sea Sp.Zo.o, Pol-Mare Sp.Zo.o,1
+ DSV Air and Sea Sp.Zo.o, Maxi Cargo Sp.Zo.o,1
+ Pol-Mare Sp.Zo.o, Maxi Cargo Sp.Zo.o,1
+ Sicurtransport, Sicurtransport,1
+ Airbus DS Airborne Solutions GmbH, Elbit Systems Ltd,12
+ Airbus DS Airborne Solutions GmbH, Advanced Technology Center,12
+ Elbit Systems Ltd, Advanced Technology Center,12
+ Air Charter Service GmbH, AS Aircontact,3
+ Air Charter Service GmbH, Air Partner International GmbH,3
+ Air Charter Service GmbH, Professional Aviation Solutions GmbH,3
+ AS Aircontact, Air Partner International GmbH,3
+ AS Aircontact, Professional Aviation Solutions GmbH,3
+ Air Partner International GmbH, Professional Aviation Solutions GmbH,3
+ Korporacja Wschód Sp. z o.o., Optix SA,4
+ International SOS (Belgium) SPRL, International SOS (Belgium) SPRL,1
+ Dat-Con d.o.o., Opticoelectron Group JSCo,3
+ Opticoelectron Group JSCo, Dat-Con d.o.o.,3
+ The Bridge – English Language Centre s.r.o., The Bridge – English Language Centre s.r.o.,1
+ Centro Informazione e Educazione Allo Sviluppo Onlus, Centro Informazione e Educazione Allo Sviluppo Onlus,7
+ EDISOFT-Empresa de Servicos e Desenvolvimento de Software, S.A.,1
+ Meteomatics AG, Meteomatics AG,1
+ Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - , Biblomatica SAC,1
+ Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - , ETT S.P.A.,1
+ Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - , Danmarks Meteorologiske Institut,1
+ Biblomatica SAC, ETT S.P.A.,1
+ Biblomatica SAC, Danmarks Meteorologiske Institut,1
+ ETT S.P.A., Danmarks Meteorologiske Institut,1
+ TUSNOVICS INSTRUMENTS Sp. z o. o., TUSNOVICS INSTRUMENTS Sp. z o. o.,1
+ Glock Ges. m.b.H., Glock Ges. m.b.H.,2
+ Mildat Sp. z o.o., Parasnake Arkadiusz Szewczyk,1
+ SAS Institute Sp. z o.o., SAS Institute Sp. z o.o.,2
+ Arlen S.A., Arlen S.A.,5
+ Arlen S.A., Arlen S.A.,2
+ Zintegrowane Systemy Techniczne Sp. z o.o., Zintegrowane Systemy Techniczne Sp. z o.o.,1
+ DC System Sp. z o.o., DC System Sp. z o.o.,1
+ ARCH s.c. Miroslawa Nowicka, Marek Nowicki,1
+ ALAB laboratoria Sp. z o.o., ALAB laboratoria Sp. z o.o.,2
+ Petra Medica Sp. z o.o., Petra Medica Sp. z o.o.,1
+ DEA Aviation, DEA Aviation,13
+ EASP Air BV, 2. Scotty Group Austria GmbH,13
+ EASP Air BV, 2Excel Aviation Ltd,13
+ 2. Scotty Group Austria GmbH, 2Excel Aviation Ltd,13
+ DEA Aviation, DEA Aviation,8
+ EASP Air BV, 2. Scotty Group Austria GmbH,8
+ EASP Air BV, 2Excel Aviation Ltd,8
+ 2. Scotty Group Austria GmbH, 2Excel Aviation Ltd,8
+ ISR Support Europe BV, ISR Support Europe BV,8
+ ITHACA — Information Technology for Humanitarian Assistance, Cooperation and Action,2
+ ITHACA — Information Technology for Humanitarian Assistance, ITHACA S.R.L.,2
+ ITHACA — Information Technology for Humanitarian Assistance, Politecnico DI Torino,2
+ ITHACA — Information Technology for Humanitarian Assistance, Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ ITHACA — Information Technology for Humanitarian Assistance, Epsilon Malta Ltd,2
+ ITHACA — Information Technology for Humanitarian Assistance, GEO4MAP S.R.L.,2
+ ITHACA — Information Technology for Humanitarian Assistance, Karšu izdevniecība Jāņa sēta SIA,2
+ Cooperation and Action, ITHACA S.R.L.,2
+ Cooperation and Action, Politecnico DI Torino,2
+ Cooperation and Action, Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ Cooperation and Action, Epsilon Malta Ltd,2
+ Cooperation and Action, GEO4MAP S.R.L.,2
+ Cooperation and Action, Karšu izdevniecība Jāņa sēta SIA,2
+ ITHACA S.R.L., Politecnico DI Torino,2
+ ITHACA S.R.L., Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ ITHACA S.R.L., Epsilon Malta Ltd,2
+ ITHACA S.R.L., GEO4MAP S.R.L.,2
+ ITHACA S.R.L., Karšu izdevniecība Jāņa sēta SIA,2
+ Politecnico DI Torino, Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ Politecnico DI Torino, Epsilon Malta Ltd,2
+ Politecnico DI Torino, GEO4MAP S.R.L.,2
+ Politecnico DI Torino, Karšu izdevniecība Jāņa sēta SIA,2
+ Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt, Epsilon Malta Ltd,2
+ Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt, GEO4MAP S.R.L.,2
+ Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt, Karšu izdevniecība Jāņa sēta SIA,2
+ Epsilon Malta Ltd, GEO4MAP S.R.L.,2
+ Epsilon Malta Ltd, Karšu izdevniecība Jāņa sēta SIA,2
+ GEO4MAP S.R.L., Karšu izdevniecība Jāņa sēta SIA,2
+ Sopra Steria Benelux SA/NV, Idemia Identity and Security France SAS,2
+ IGEFA Handelsgesellschaft mbH & Co. KG, International SOS Europe Government Services S.R.L.,15
+ IGEFA Handelsgesellschaft mbH & Co. KG, Kronosan S.R.L.,15
+ IGEFA Handelsgesellschaft mbH & Co. KG, N.B.C. System S.R.L.,15
+ IGEFA Handelsgesellschaft mbH & Co. KG, BLS S.R.L.,15
+ International SOS Europe Government Services S.R.L., Kronosan S.R.L.,15
+ International SOS Europe Government Services S.R.L., N.B.C. System S.R.L.,15
+ International SOS Europe Government Services S.R.L., BLS S.R.L.,15
+ Kronosan S.R.L., N.B.C. System S.R.L.,15
+ Kronosan S.R.L., BLS S.R.L.,15
+ N.B.C. System S.R.L., BLS S.R.L.,15
+ NaviGate Sp. z o.o., Aviation Technik Sp. z o.o.,1
+ PWC – Pricewaterhousecoopers EU Services EESV, ISDEFE – Ingenieria Sistemas Para la Defensa de Espana,1
+– Office for Economic Policy, Regional Development,2
+ PWC — Pricewaterhousecoopers EU Services EESV, PWC — Pricewaterhousecoopers EU Services EESV,1
+ Jas Technologie Sp z oo, Jas Technologie Sp z oo,1
+ Dom Volvo Car Sp. z o.o., Mleasing Sp. z o.o.,2
+ Dom Volvo Car Sp. z o.o., Mleasing Sp. z o.o.,1
+ Ingeniería de Sistemas para la Defensa de España SA, Ingeniería de Sistemas para la Defensa de España SA,1
+ GMV Aerospace and Defence S.A.U., GMV Aerospace and Defence S.A.U.,4
+ MeteoGroup Polska Sp. z o.o., MeteoGroup Polska Sp. z o.o.,1
+ Events Center Creative Agency Krzysztof Koczur, Events Center Creative Agency Krzysztof Koczur,1
+ Belvedere — Cafe Łazienki Królewskie Sp. z o.o., Belvedere — Cafe Łazienki Królewskie Sp. z o.o.,1
+ Events Center Creative Agency Koczur Krzysztof, Events Center Creative Agency Koczur Krzysztof,1
+ Events Center Creative Agency Koczur Krzysztof, Events Center Creative Agency Koczur Krzysztof,1
+ Ever Grupa Sp. z o.o., Ever Grupa Sp. z o.o.,1
+ Atos IT Solutions and Services Iberia S.L., Atos IT Solutions and Services Iberia S.L.,1
+ Espes Office Sp. z o.o., Espes Office Sp. z o.o.,1
+ Espes Office Sp. z o.o., Espes Office Sp. z o.o.,1
+ Espes Office Sp. z o.o., Espes Office Sp. z o.o.,1
+ New Technology Poland S.A., New Technology Poland S.A.,1
+ Art'Impression Catering Sp. z o.o., Wencel Sp. z o.o.,1
+ Securitas Polska Sp. z o.o., Securitas Polska Sp. z o.o.,1
+ Asseco Poland S.A., Asseco Poland S.A.,1
+,,1
+ Diamond-Executive Aviation, Diamond-Executive Aviation,1
+ GAF AG, GAF AG,1
+ Netcompany IT and Business Consulting A/S, Netcompany IT and Business Consulting A/S,1
+ Vagia Tzislaki — Lesvorama General Travel Agency, Vagia Tzislaki — Lesvorama General Travel Agency,1
+ Vagia Tzislaki — Lesvorama General Travel Agency, Vagia Tzislaki — Lesvorama General Travel Agency,1
+ Adria Congrex srl, Adria Congrex srl,2
+ Microsoft Sp. z o.o., Microsoft Sp. z o.o.,1
+ BoldBrick s.r.o., Fabrity K2 Sp. z o.o.,2
+ BoldBrick s.r.o., IT-Dev Sp. z o.o.,2
+ Fabrity K2 Sp. z o.o., IT-Dev Sp. z o.o.,2
+ Netcompany IT and Business Consulting A/S, Netcompany IT and Business Consulting A/S,1
+ Carmenta AB, Carmenta AB,1
+of Agence Gemra, BTCS Sp. z o.o.,1
+of Agence Gemra, GTC AMG Sp. z o.o.,1
+ BTCS Sp. z o.o., GTC AMG Sp. z o.o.,1
+ Asseco Poland SA, Asseco Poland SA,2
+ Grafton Recruitment Polska Sp. z o.o., Grafton Recruitment Polska Sp. z o.o.,1
+ Zeticon NV, Zeticon NV,1
+ Wisag Polska Sp. z o.o., Wisag Polska Sp. z o.o.,1
+ Opticoelectron Group, Opticoelectron Group,1
+ Opticoelectron Group, Opticoelectron Group,1
+of Oktagon Polska Paweł Toffel, AndRee GROUP Andrzej Toffel,1
+of Oktagon Polska Paweł Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel,1
+ AndRee GROUP Andrzej Toffel, ADART S.C. led by Oktagon Polska Paweł Toffel,1
+ e-GEOS SPA, Telespazio France SAS,1
+ Israel Aerospace Industries Limited, Malat Division,2
+ Leonardo SPA, Leonardo SPA,1
+ AS Aircontact, Air Charter Service Limited,5
+ AS Aircontact, Air Charter Service Limited,1
+ Control system FMN Sp z oo, Control system FMN Sp z oo,1
+ Uni Business Centre BV, Nextis services s.r.o.,1
+ Uni Business Centre BV, AutoCont CZ a.s.,1
+ Uni Business Centre BV, Bechtle direct Polska sp z oo,1
+ Nextis services s.r.o., AutoCont CZ a.s.,1
+ Nextis services s.r.o., Bechtle direct Polska sp z oo,1
+ AutoCont CZ a.s., Bechtle direct Polska sp z oo,1
+ Profil nabytek as, Profil nabytek as,1
+ Arch sc Mirosława Nowicka Marek Nowicki, Arch sc Mirosława Nowicka Marek Nowicki,1
+ MeteoGroup Nederland B.V., MeteoGroup Nederland B.V.,2
+ Dotsoft SA, Epsilon Malta Ltd,1
+ Asseco Poland SA, ESRI Polska Sp. z o.o.,1
+ GeneGIS GI Srl (former GESP Srl), GeneGIS GI Srl (former GESP Srl),1
+ BATEX Technische Textilien GmbH, BATEX Technische Textilien GmbH,1
+ Pentacomp Systemy Informatyczne S.A., Pentacomp Systemy Informatyczne S.A.,1
+ Fabrity K2 Sp. z o.o., Fabrity K2 Sp. z o.o.,1
+ Netcompany IT and Business Consulting A/S, Netcompany IT and Business Consulting A/S,1
+ SAS Institute Polska Sp. z o.o., SAS Institute Polska Sp. z o.o.,1
+ Sunrise Lines E.P.E. (Ltd), Sunrise Lines E.P.E. (Ltd),1
+ Pantelopoulos Panagiotis, Pantelopoulos Panagiotis,1
+ Samwell Limited, Samwell Limited,1
+ InfoCert S.p.A., InfoCert S.p.A.,1
+ Polkomtel Sp. z o.o., Polkomtel Sp. z o.o.,1
+ SAS Institute Polska Sp. z o.o., SAS Institute Polska Sp. z o.o.,1
+ IN-innovative navigation GmbH, IN-innovative navigation GmbH,1
+ Andree Group Andrzej Toffel, Decuatro Marketing Promocional S.L.,1
+ Andree Group Andrzej Toffel, IGEP SA/NV,1
+ Decuatro Marketing Promocional S.L., IGEP SA/NV,1
+ DC System Company Sp z oo, DC System Company Sp z oo,1
+ Asseco Poland SA, Asseco Poland SA,3
+ Ricardo Nederland BV, Ricardo-AEA Ltd,1
+ Fleischhacker GmbH and Co. KG, Fleischhacker GmbH and Co. KG,1
+ Art’ Impression Catering Sp. z o.o., Art’ Impression Catering Sp. z o.o.,1
+ Car Master 2 sp. z o.o. sp.k., Car Master 2 sp. z o.o. sp.k.,1
+ Pomilio Blumm SRL, Pomilio Blumm SRL,4
+ Jarosław Sztobryn Prooffice, Jarosław Sztobryn Prooffice,1
+ Regula Baltija Ltd, Regula Baltija Ltd,1
+ Regula Baltija Ltd, Regula Baltija Ltd,1
+ GMV Aerospace and Defence SAU, GMV Aerospace and Defence SAU,4
+ ZRB Walko Waldemar Koński, ZRB Walko Waldemar Koński,1
+ Opticoelectron Group JSCo, Opticoelectron Group JSCo,1
+ Windward Ltd, Windward Ltd,1
+ Bene Warszawa Sp ZOO, Bene Warszawa Sp ZOO,2
+ Espes Office Sp ZOO, Espes Office Sp ZOO,1
+ Bene Warszawa Sp ZOO, Bene Warszawa Sp ZOO,1
+ Diamond-Executive Aviation Ltd, Diamond-Executive Aviation Ltd,4
+ CAE Aviation Sarl, CAE Aviation Sarl,4
+ EASP Air BV, EASP Air BV,4
+ Indra Sistemas SA, Indra Sistemas SA,4
+ City & Guilds of London Institute, City & Guilds of London Institute,1
+ Optexim AD, Optexim AD,1
+ OPTIX JSC, OPTIX JSC,1
+ CAE Aviation, DEA Aviation,3
+ CAE Aviation, EASP Air BV,3
+ DEA Aviation, EASP Air BV,3
+ Opticoelectron Group JSCo, Opticoelectron Group JSCo,2
+ Instytut Systemów Bezpieczeństwa Sp. z o.o., ClanTect Ltd,1
+ Hawkeye 360, Inc.,1
+ Brill AV Media Sp z oo, Brill AV Media Sp z oo,1
+ Lazaris A. Gomos D. OE, Lazaris A. Gomos D. OE,1
+ Softwin SRL, Intrasoft International S.A.,1
+ Softwin SRL, Pecka Studio s.r.o.,1
+ Intrasoft International S.A., Pecka Studio s.r.o.,1
+ Kaliszuk sp j staff partners, Outworking SA,2
+ Kaliszuk sp j staff partners, Grafton Recruitment Sp z oo,2
+ Kaliszuk sp j staff partners, GI Group Sp z oo,2
+ Outworking SA, Grafton Recruitment Sp z oo,2
+ Outworking SA, GI Group Sp z oo,2
+ Grafton Recruitment Sp z oo, GI Group Sp z oo,2
+ TEKNE Srl, TEKNE Srl,1
+ GTC AMG sp. z o.o., GTC AMG sp. z o.o.,1
+ Nord Partner sp. z o.o., Nord Partner sp. z o.o.,1
+ ESRI Polska, ESRI Polska,1
+ CAE Aviation, DEA Aviation Ltd,2
+ CAE Aviation, Airborne Technologies GmbH,2
+ CAE Aviation, Fly4Less Kft,2
+ DEA Aviation Ltd, Airborne Technologies GmbH,2
+ DEA Aviation Ltd, Fly4Less Kft,2
+ Airborne Technologies GmbH, Fly4Less Kft,2
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ CAE Aviation, DEA Aviation,3
+ CAE Aviation, EASP Air BV,3
+ DEA Aviation, EASP Air BV,3
+ CAE Aviation, DEA Aviation,4
+ CAE Aviation, EASP Air BV,4
+ DEA Aviation, EASP Air BV,4
+ eTravel SA, eTravel SA,5
+ Defacto Sp z oo, Defacto Sp z oo,2
+ CAE Aviation, DEA Aviation Ltd,1
+ CAE Aviation, Airborne Technologies GmbH,1
+ CAE Aviation, Fly4Less Kft,1
+ DEA Aviation Ltd, Airborne Technologies GmbH,1
+ DEA Aviation Ltd, Fly4Less Kft,1
+ Airborne Technologies GmbH, Fly4Less Kft,1
+ CAE Aviation, DEA Aviation Ltd,2
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ CAE Aviation, DEA Aviation,3
+ CAE Aviation, EASP Air BV,3
+ DEA Aviation, EASP Air BV,3
+ CAE Aviation, DEA Aviation,2
+ CAE Aviation, EASP Air BV,2
+ DEA Aviation, EASP Air BV,2
+ Air Charter Service Ltd, AS Aircontact,2
+ eTravel SA, eTravel SA,8
+ Car Master 2 Sp. z o.o. Sp.k, Car Master 2 Sp. z o.o. Sp.k,1
+ Carmenta AB, Carmenta AB,1
+ VISION BOX -SOLUCOES DE VISAO PORCOMPUTADOR SA, VISION BOX -SOLUCOES DE VISAO PORCOMPUTADOR SA,1
+ EVERIS AEROESPACIAL Y DEFENSA SL, EVERIS AEROESPACIAL Y DEFENSA SL,1
+ GAF AG, GAF AG,2
+ Atende SA, Atende SA,1
+ATOS POLSKA S.A. , UNI Systems Information Technology Systems Commercial S.M.S.A. Partner,9
+ATOS POLSKA S.A. , UNI Systems Luxembourg S.a.r.l. Partner,9
+ATOS POLSKA S.A. , Computer Resources International S.A. Partner,9
+ATOS POLSKA S.A. , Avalon Tecnologías de la Información S.L.,9
+ATOS POLSKA S.A. , Engineering Ingegneria Informatica S.P.A.,9
+ATOS POLSKA S.A. , Fabrity SP. Z O.O.,9
+ATOS POLSKA S.A. , JIT Team SP. Z O.O.,9
+ATOS POLSKA S.A. , Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ATOS POLSKA S.A. , FINCONS S.P.A. Partner,9
+ATOS POLSKA S.A. , PWC EU Services EESV ,9
+ATOS POLSKA S.A. , PWC IT Services SP. Z O.O. Partner,9
+ATOS POLSKA S.A. , Soitron Group SE,9
+ATOS POLSKA S.A. , Trasys International G.E.I.E.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, UNI Systems Luxembourg S.a.r.l. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Computer Resources International S.A. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Avalon Tecnologías de la Información S.L.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Engineering Ingegneria Informatica S.P.A.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Fabrity SP. Z O.O.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, JIT Team SP. Z O.O.,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, FINCONS S.P.A. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, PWC EU Services EESV ,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, PWC IT Services SP. Z O.O. Partner,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Soitron Group SE,9
+ UNI Systems Information Technology Systems Commercial S.M.S.A. Partner, Trasys International G.E.I.E.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Computer Resources International S.A. Partner,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Avalon Tecnologías de la Información S.L.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Engineering Ingegneria Informatica S.P.A.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Fabrity SP. Z O.O.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, JIT Team SP. Z O.O.,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ UNI Systems Luxembourg S.a.r.l. Partner, FINCONS S.P.A. Partner,9
+ UNI Systems Luxembourg S.a.r.l. Partner, PWC EU Services EESV ,9
+ UNI Systems Luxembourg S.a.r.l. Partner, PWC IT Services SP. Z O.O. Partner,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Soitron Group SE,9
+ UNI Systems Luxembourg S.a.r.l. Partner, Trasys International G.E.I.E.,9
+ Computer Resources International S.A. Partner, Avalon Tecnologías de la Información S.L.,9
+ Computer Resources International S.A. Partner, Engineering Ingegneria Informatica S.P.A.,9
+ Computer Resources International S.A. Partner, Fabrity SP. Z O.O.,9
+ Computer Resources International S.A. Partner, JIT Team SP. Z O.O.,9
+ Computer Resources International S.A. Partner, Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Computer Resources International S.A. Partner, FINCONS S.P.A. Partner,9
+ Computer Resources International S.A. Partner, PWC EU Services EESV ,9
+ Computer Resources International S.A. Partner, PWC IT Services SP. Z O.O. Partner,9
+ Computer Resources International S.A. Partner, Soitron Group SE,9
+ Computer Resources International S.A. Partner, Trasys International G.E.I.E.,9
+ Avalon Tecnologías de la Información S.L., Engineering Ingegneria Informatica S.P.A.,9
+ Avalon Tecnologías de la Información S.L., Fabrity SP. Z O.O.,9
+ Avalon Tecnologías de la Información S.L., JIT Team SP. Z O.O.,9
+ Avalon Tecnologías de la Información S.L., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Avalon Tecnologías de la Información S.L., FINCONS S.P.A. Partner,9
+ Avalon Tecnologías de la Información S.L., PWC EU Services EESV ,9
+ Avalon Tecnologías de la Información S.L., PWC IT Services SP. Z O.O. Partner,9
+ Avalon Tecnologías de la Información S.L., Soitron Group SE,9
+ Avalon Tecnologías de la Información S.L., Trasys International G.E.I.E.,9
+ Engineering Ingegneria Informatica S.P.A., Fabrity SP. Z O.O.,9
+ Engineering Ingegneria Informatica S.P.A., JIT Team SP. Z O.O.,9
+ Engineering Ingegneria Informatica S.P.A., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Engineering Ingegneria Informatica S.P.A., FINCONS S.P.A. Partner,9
+ Engineering Ingegneria Informatica S.P.A., PWC EU Services EESV ,9
+ Engineering Ingegneria Informatica S.P.A., PWC IT Services SP. Z O.O. Partner,9
+ Engineering Ingegneria Informatica S.P.A., Soitron Group SE,9
+ Engineering Ingegneria Informatica S.P.A., Trasys International G.E.I.E.,9
+ Fabrity SP. Z O.O., JIT Team SP. Z O.O.,9
+ Fabrity SP. Z O.O., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ Fabrity SP. Z O.O., FINCONS S.P.A. Partner,9
+ Fabrity SP. Z O.O., PWC EU Services EESV ,9
+ Fabrity SP. Z O.O., PWC IT Services SP. Z O.O. Partner,9
+ Fabrity SP. Z O.O., Soitron Group SE,9
+ Fabrity SP. Z O.O., Trasys International G.E.I.E.,9
+ JIT Team SP. Z O.O., Hellenic Telecommunications Organization S.A. – OTE S.A. ,9
+ JIT Team SP. Z O.O., FINCONS S.P.A. Partner,9
+ JIT Team SP. Z O.O., PWC EU Services EESV ,9
+ JIT Team SP. Z O.O., PWC IT Services SP. Z O.O. Partner,9
+ JIT Team SP. Z O.O., Soitron Group SE,9
+ JIT Team SP. Z O.O., Trasys International G.E.I.E.,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , FINCONS S.P.A. Partner,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , PWC EU Services EESV ,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , PWC IT Services SP. Z O.O. Partner,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , Soitron Group SE,9
+ Hellenic Telecommunications Organization S.A. – OTE S.A. , Trasys International G.E.I.E.,9
+ FINCONS S.P.A. Partner, PWC EU Services EESV ,9
+ FINCONS S.P.A. Partner, PWC IT Services SP. Z O.O. Partner,9
+ FINCONS S.P.A. Partner, Soitron Group SE,9
+ FINCONS S.P.A. Partner, Trasys International G.E.I.E.,9
+ PWC EU Services EESV , PWC IT Services SP. Z O.O. Partner,9
+ PWC EU Services EESV , Soitron Group SE,9
+ PWC EU Services EESV , Trasys International G.E.I.E.,9
+ PWC IT Services SP. Z O.O. Partner, Soitron Group SE,9
+ PWC IT Services SP. Z O.O. Partner, Trasys International G.E.I.E.,9
+ Soitron Group SE, Trasys International G.E.I.E.,9
+ Windward Ltd, Windward Ltd,1
+ Steinbeis 2I GMBH, Steinbeis 2I GMBH,1
+ in-innovative navigation GmbH, CNIM AIR SPACE SAS,2
+ Bechtle Brussels NV, Bechtle Brussels NV,1
+ CAE Aviation, CAE Aviation,2
+ DEA Aviation, DEA Aviation,2
+ Cambridge School of English Sp. z o.o., Cambridge School of English Sp. z o.o.,1
+ Cambridge School of English Sp. z o.o., Cambridge School of English Sp. z o.o.,1
+ DSV Air and Sea Sp.Zo.o, Pol-Mare Sp.Zo.o,1
+ DSV Air and Sea Sp.Zo.o, Maxi Cargo Sp.Zo.o,1
+ Pol-Mare Sp.Zo.o, Maxi Cargo Sp.Zo.o,1
+ Sicurtransport, Sicurtransport,1
+ Airbus DS Airborne Solutions GmbH, Elbit Systems Ltd,12
+ Airbus DS Airborne Solutions GmbH, Advanced Technology Center,12
+ Elbit Systems Ltd, Advanced Technology Center,12
+ Air Charter Service GmbH, AS Aircontact,3
+ Air Charter Service GmbH, Air Partner International GmbH,3
+ Air Charter Service GmbH, Professional Aviation Solutions GmbH,3
+ AS Aircontact, Air Partner International GmbH,3
+ AS Aircontact, Professional Aviation Solutions GmbH,3
+ Air Partner International GmbH, Professional Aviation Solutions GmbH,3
+ Korporacja Wschód Sp. z o.o., Optix SA,4
+ International SOS (Belgium) SPRL, International SOS (Belgium) SPRL,1
+ Dat-Con d.o.o., Opticoelectron Group JSCo,3
+ Opticoelectron Group JSCo, Dat-Con d.o.o.,3
+ The Bridge – English Language Centre s.r.o., The Bridge – English Language Centre s.r.o.,1
+ Centro Informazione e Educazione Allo Sviluppo Onlus, Centro Informazione e Educazione Allo Sviluppo Onlus,7
+ EDISOFT-Empresa de Servicos e Desenvolvimento de Software, S.A.,1
+ Meteomatics AG, Meteomatics AG,1
+ Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - , Biblomatica SAC,1
+ Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - , ETT S.P.A.,1
+ Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - , Danmarks Meteorologiske Institut,1
+ Biblomatica SAC, ETT S.P.A.,1
+ Biblomatica SAC, Danmarks Meteorologiske Institut,1
+ ETT S.P.A., Danmarks Meteorologiske Institut,1
+ TUSNOVICS INSTRUMENTS Sp. z o. o., TUSNOVICS INSTRUMENTS Sp. z o. o.,1
+ Glock Ges. m.b.H., Glock Ges. m.b.H.,2
+ Mildat Sp. z o.o., Parasnake Arkadiusz Szewczyk,1
+ SAS Institute Sp. z o.o., SAS Institute Sp. z o.o.,2
+ Arlen S.A., Arlen S.A.,5
+ Arlen S.A., Arlen S.A.,2
+ Zintegrowane Systemy Techniczne Sp. z o.o., Zintegrowane Systemy Techniczne Sp. z o.o.,1
+ DC System Sp. z o.o., DC System Sp. z o.o.,1
+ ARCH s.c. Miroslawa Nowicka, Marek Nowicki,1
+ ALAB laboratoria Sp. z o.o., ALAB laboratoria Sp. z o.o.,2
+ Petra Medica Sp. z o.o., Petra Medica Sp. z o.o.,1
+ DEA Aviation, DEA Aviation,13
+ EASP Air BV, 2. Scotty Group Austria GmbH,13
+ EASP Air BV, 2Excel Aviation Ltd,13
+ 2. Scotty Group Austria GmbH, 2Excel Aviation Ltd,13
+ DEA Aviation, DEA Aviation,8
+ EASP Air BV, 2. Scotty Group Austria GmbH,8
+ EASP Air BV, 2Excel Aviation Ltd,8
+ 2. Scotty Group Austria GmbH, 2Excel Aviation Ltd,8
+ ISR Support Europe BV, ISR Support Europe BV,8
+ ITHACA — Information Technology for Humanitarian Assistance, Cooperation and Action,2
+ ITHACA — Information Technology for Humanitarian Assistance, ITHACA S.R.L.,2
+ ITHACA — Information Technology for Humanitarian Assistance, Politecnico DI Torino,2
+ ITHACA — Information Technology for Humanitarian Assistance, Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ ITHACA — Information Technology for Humanitarian Assistance, Epsilon Malta Ltd,2
+ ITHACA — Information Technology for Humanitarian Assistance, GEO4MAP S.R.L.,2
+ ITHACA — Information Technology for Humanitarian Assistance, Karšu izdevniecība Jāņa sēta SIA,2
+ Cooperation and Action, ITHACA S.R.L.,2
+ Cooperation and Action, Politecnico DI Torino,2
+ Cooperation and Action, Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ Cooperation and Action, Epsilon Malta Ltd,2
+ Cooperation and Action, GEO4MAP S.R.L.,2
+ Cooperation and Action, Karšu izdevniecība Jāņa sēta SIA,2
+ ITHACA S.R.L., Politecnico DI Torino,2
+ ITHACA S.R.L., Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ ITHACA S.R.L., Epsilon Malta Ltd,2
+ ITHACA S.R.L., GEO4MAP S.R.L.,2
+ ITHACA S.R.L., Karšu izdevniecība Jāņa sēta SIA,2
+ Politecnico DI Torino, Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt,2
+ Politecnico DI Torino, Epsilon Malta Ltd,2
+ Politecnico DI Torino, GEO4MAP S.R.L.,2
+ Politecnico DI Torino, Karšu izdevniecība Jāņa sēta SIA,2
+ Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt, Epsilon Malta Ltd,2
+ Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt, GEO4MAP S.R.L.,2
+ Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt, Karšu izdevniecība Jāņa sēta SIA,2
+ Epsilon Malta Ltd, GEO4MAP S.R.L.,2
+ Epsilon Malta Ltd, Karšu izdevniecība Jāņa sēta SIA,2
+ GEO4MAP S.R.L., Karšu izdevniecība Jāņa sēta SIA,2
+ Sopra Steria Benelux SA/NV, Idemia Identity and Security France SAS,2
+ IGEFA Handelsgesellschaft mbH & Co. KG, International SOS Europe Government Services S.R.L.,15
+ IGEFA Handelsgesellschaft mbH & Co. KG, Kronosan S.R.L.,15
+ IGEFA Handelsgesellschaft mbH & Co. KG, N.B.C. System S.R.L.,15
+ IGEFA Handelsgesellschaft mbH & Co. KG, BLS S.R.L.,15
+ International SOS Europe Government Services S.R.L., Kronosan S.R.L.,15
+ International SOS Europe Government Services S.R.L., N.B.C. System S.R.L.,15
+ International SOS Europe Government Services S.R.L., BLS S.R.L.,15
+ Kronosan S.R.L., N.B.C. System S.R.L.,15
+ Kronosan S.R.L., BLS S.R.L.,15
+ N.B.C. System S.R.L., BLS S.R.L.,15
+ NaviGate Sp. z o.o., Aviation Technik Sp. z o.o.,1
+ PWC – Pricewaterhousecoopers EU Services EESV, ISDEFE – Ingenieria Sistemas Para la Defensa de Espana,1
+– Office for Economic Policy, Regional Development,2
+ PWC — Pricewaterhousecoopers EU Services EESV, PWC — Pricewaterhousecoopers EU Services EESV,1
+ Jas Technologie Sp z oo, Jas Technologie Sp z oo,1
+ Dom Volvo Car Sp. z o.o., Mleasing Sp. z o.o.,2
+ Dom Volvo Car Sp. z o.o., Mleasing Sp. z o.o.,1
