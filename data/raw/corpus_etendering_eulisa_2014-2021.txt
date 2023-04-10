@@ -1,3 +1,1911 @@
+26/10/2021    S208
+
+    I.II.IV.V.VI.
+
+France-Strasbourg: Provision of Canteen, Catering and other Associated Services at eu-LISA’s Premises in Strasbourg, France
+
+2021/S 208-543126
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: 18 rue de la Faisanderie
+Town: Strasbourg
+NUTS code: FRF11 Bas-Rhin
+Postal code: 67000
+Country: France
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Canteen, Catering and other Associated Services at eu-LISA’s Premises in Strasbourg, France
+
+Reference number: LISA-2020-OP-05
+II.1.2)Main CPV code
+55500000 Canteen and catering services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is the provision of canteen, catering and other associated services at eu-LISA’s premises in Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 500 000.00 EUR
+II.2)Description
+II.2.1)Title:
+
+Services of Coffee and Vending Machines and Water Dispensers
+
+Lot No: 2
+II.2.2)Additional CPV code(s)
+15000000 Food, beverages, tobacco and related products
+II.2.3)Place of performance
+NUTS code: FRF11 Bas-Rhin
+II.2.4)Description of the procurement:
+
+The subject of this call for tenders is the provision of services of coffee and vending machines and water dispensers.
+
+II.2.5)Award criteria
+Price
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 222-542058
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: LISA-2020-OP-05-02
+Lot No: 2
+Title:
+
+Services of Coffee and Vending Machines and Water Dispensers
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+15/10/2021
+V.2.2)Information about tenders
+Number of tenders received: 4
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: Alsacafe Automates
+National registration number: 332847698
+Postal address: 7 rue de la Forêt Noire
+Town: Weyersheim
+NUTS code: FRF Grand Est
+Postal code: 67720
+Country: France
+The contractor is an SME: yes
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 500 000.00 EUR
+Total value of the contract/lot: 500 000.00 EUR
+V.2.5)Information about subcontracting
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+19/10/2021
+26/10/2021    S208
+
+    I.II.IV.V.VI.
+
+France-Strasbourg: Provision of Shuttle Services for Transfers of Passengers between eu-LISA's sites in Strasbourg, France
+
+2021/S 208-543125
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Directive 2014/24/EU
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: 18 rue de la Faisanderie
+Town: Strasbourg
+NUTS code: FRF11 Bas-Rhin
+Postal code: 67000
+Country: France
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Shuttle Services for Transfers of Passengers between eu-LISA's sites in Strasbourg, France
+
+Reference number: LISA-2021-OP-01
+II.1.2)Main CPV code
+60130000 Special-purpose road passenger-transport services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is the provision of shuttle services for transfers of passengers between eu-LISA's sites in Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: no
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 756 800.00 EUR
+II.2)Description
+II.2.2)Additional CPV code(s)
+60100000 Road transport services
+II.2.3)Place of performance
+NUTS code: FRF11 Bas-Rhin
+Main site or place of performance:
+
+NUTS code: FRF11 Bas-Rhin.
+
+II.2.4)Description of the procurement:
+
+The subject of this call for tenders is the provision of shuttle services for transfers of passengers between eu-LISA's sites in Strasbourg, France.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60
+Price - Weighting: 40
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2021/S 071-179741
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: FWC LISA-2021-OP-01
+Title:
+
+Provision of Shuttle Services for Transfers of Passengers between eu-LISA's Sites in Strasbourg, France
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+14/10/2021
+V.2.2)Information about tenders
+Number of tenders received: 1
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: LK – Voyages Lucien Kunegel
+National registration number: 916920671
+Town: Colmar
+NUTS code: FR France
+Country: France
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 756 800.00 EUR
+Total value of the contract/lot: 756 800.00 EUR
+V.2.5)Information about subcontracting
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+19/10/2021
+27/08/2021    S166
+
+    I.II.IV.V.VI.
+
+France-Strasbourg: Cleaning and Gardening Services for eu-LISA premises in Strasbourg, France
+
+2021/S 166-432217
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: 18 rue de la Faisanderie
+Town: Strasbourg
+NUTS code: FRF11 Bas-Rhin
+Postal code: 67000
+Country: France
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Cleaning and Gardening Services for eu-LISA premises in Strasbourg, France
+
+Reference number: LISA-2020-OP-06
+II.1.2)Main CPV code
+90919200 Office cleaning services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is the provision of cleaning and gardening services at eu-LISA premises in Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 350 000.00 EUR
+II.2)Description
+II.2.1)Title:
+
+Provision of Gardening Services
+
+Lot No: 2
+II.2.2)Additional CPV code(s)
+71421000 Landscape gardening services
+II.2.3)Place of performance
+NUTS code: FRF11 Bas-Rhin
+II.2.4)Description of the procurement:
+
+The subject of this call for tenders is the provision of Gardening services at eu-LISA's premises in Strasbourg, France.
+
+II.2.5)Award criteria
+Price
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 211-514840
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: LISA/2020/OP/06/02
+Lot No: 2
+Title:
+
+Provision of Gardening Services
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+20/08/2021
+V.2.2)Information about tenders
+Number of tenders received: 2
+Number of tenders received from SMEs: 1
+Number of tenders received from tenderers from other EU Member States: 1
+Number of tenders received from tenderers from non-EU Member States: 0
+Number of tenders received by electronic means: 2
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: Scop Espaces Verts
+Postal address: 23 rue du Tramway
+Town: Eschau
+NUTS code: FRF1 Alsace
+Postal code: 67114
+Country: France
+The contractor is an SME: yes
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 350 000.00 EUR
+Total value of the contract/lot: 350 000.00 EUR
+V.2.5)Information about subcontracting
+The contract is likely to be subcontracted
+Value or proportion likely to be subcontracted to third parties
+Proportion: 40 %
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+20/08/2021
+09/08/2021    S152
+
+    I.II.IV.V.V.VI.
+
+France-Strasbourg: Transversal Engineering Framework (TEF)
+
+2021/S 152-403569
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: 18 rue de la Faisanderie
+Town: Strasbourg
+NUTS code: FR France
+Postal code: 10415
+Country: France
+E-mail: LISA-2019-OP-01-TEF-TENDERING@eulisa.europa.eu
+Internet address(es):
+Main address: www.eulisa.europa.eu
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.1)Name and addresses
+Official name: European Border and Coast Guard Agency (FRONTEX)
+Postal address: Plac Europejski 6
+Town: Warsaw
+NUTS code: PL Polska
+Postal code: 00-844
+Country: Poland
+E-mail: procurement@frontex.europa.eu
+Internet address(es):
+Main address: www.frontex.europa.eu
+I.2)Information about joint procurement
+The contract involves joint procurement
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Transversal Engineering Framework (TEF)
+
+Reference number: LISA/2019/OP/01
+II.1.2)Main CPV code
+72000000 IT services: consulting, software development, Internet and support
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The scope of this Call for Tenders includes the design and support of core business systems and interoperability components, provision of core business systems and interoperability components, testing of core business systems and interoperability components and design and provision of infrastructure for new systems.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 180 000 000.00 EUR
+II.2)Description
+II.2.1)Title:
+
+Test Services Provisioning
+
+Lot No: 4
+II.2.2)Additional CPV code(s)
+72820000 Computer testing services
+II.2.3)Place of performance
+NUTS code: AT Österreich
+NUTS code: FR France
+II.2.4)Description of the procurement:
+
+Test services provisioning.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 70
+Price - Weighting: 30
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+This lot is not interinstitutional and just open to eu-LISA.
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 025-055396
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: LISA/2019/OP/01/04/01
+Lot No: 4
+Title:
+
+Test Services Provisioning
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+01/06/2021
+V.2.2)Information about tenders
+Number of tenders received: 2
+Number of tenders received by electronic means: 2
+The contract has been awarded to a group of economic operators: yes
+V.2.3)Name and address of the contractor
+Official name: Indra Soluciones Tecnologías de la Información S. L. U (Group leader)
+Postal address: Avenida de Bruselas 35
+Town: Alcobendas
+NUTS code: ES España
+Postal code: 28108
+Country: Spain
+The contractor is an SME: no
+V.2.3)Name and address of the contractor
+Official name: I.R.I.S. Solutions & Experts S.A.
+Postal address: Rue du Bosquet 10
+Town: Mont‐Saint‐Guibert
+NUTS code: BE Belgique / België
+Postal code: B‐1435
+Country: Belgium
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 180 000 000.00 EUR
+Total value of the contract/lot: 180 000 000.00 EUR
+V.2.5)Information about subcontracting
+The contract is likely to be subcontracted
+Short description of the part of the contract to be subcontracted:
+
+Not known
+
+Section V: Award of contract
+Contract No: LISA/2019/OP/01/04/02
+Lot No: 4
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+25/07/2021
+V.2.2)Information about tenders
+Number of tenders received: 2
+Number of tenders received by electronic means: 2
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: CGI France SAS
+Postal address: 17 Place des Reflets
+Town: Courbevoie
+NUTS code: FR France
+Postal code: 92400
+Country: France
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 180 000 000.00 EUR
+Total value of the contract/lot: 180 000 000.00 EUR
+V.2.5)Information about subcontracting
+The contract is likely to be subcontracted
+Short description of the part of the contract to be subcontracted:
+
+Not known
+
+Section VI: Complementary information
+VI.3)Additional information:
+
+See Internet address provided in section I.3).
+
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925 Luxembourg
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.4.3)Review procedure
+Precise information on deadline(s) for review procedures:
+
+See Internet address provided in section I.3).
+
+VI.5)Date of dispatch of this notice:
+02/08/2021
+30/07/2021    S146
+
+    I.II.IV.V.VI.
+
+France-Strasbourg: Cleaning and Gardening Services for eu-LISA Premises in Strasbourg, France
+
+2021/S 146-384529
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: 18 rue de la Faisanderie
+Town: Strasbourg
+NUTS code: FRF11 Bas-Rhin
+Postal code: 67000
+Country: France
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Cleaning and Gardening Services for eu-LISA Premises in Strasbourg, France
+
+Reference number: LISA-2020-OP-06
+II.1.2)Main CPV code
+90919200 Office cleaning services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is the provision of cleaning and gardening services at eu-LISA premises in Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 1 130 000.00 EUR
+II.2)Description
+II.2.1)Title:
+
+Provision of Cleaning and Associated Services
+
+Lot No: 1
+II.2.2)Additional CPV code(s)
+90919200 Office cleaning services
+II.2.3)Place of performance
+NUTS code: FRF11 Bas-Rhin
+II.2.4)Description of the procurement:
+
+The subject of this call for Tenders is the provision of cleaning and associated services at eu-LISA premises in Strasbourg, France.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality of the team organisation and continuity of services / Weighting: 25
+Quality criterion - Name: Stability of employment of the proposed team / Weighting: 7,5
+Quality criterion - Name: Risk assessment of possible difficulties / Weighting: 7,5
+Quality criterion - Name: Application of environment-friendly management measures / Weighting: 5
+Quality criterion - Name: Communication with eu-LISA and reporting lines / Weighting: 5
+Price - Weighting: 50
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 211-514840
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: LISA/2020/OP/06/01
+Lot No: 1
+Title:
+
+Provision of Cleaning and Associated Services
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+20/07/2021
+V.2.2)Information about tenders
+Number of tenders received: 3
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: ONET Services
+Postal address: 36 Boulevard de l'Ocean
+Town: Marseille
+NUTS code: FR France
+Postal code: 13009
+Country: France
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 1 130 000.00 EUR
+Total value of the contract/lot: 1 130 000.00 EUR
+V.2.5)Information about subcontracting
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: Rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+23/07/2021
+16/07/2021    S136
+
+    I.II.IV.V.VI.
+
+Estonia-Tallinn: Provision of Insurance Services for eu-LISA's Operational Site in Strasbourg, France
+
+2021/S 136-358246
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: Vesilennuki 5
+Town: Tallinn
+NUTS code: EE Eesti
+Postal code: 10415
+Country: Estonia
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Insurance Services for eu-LISA's Operational Site in Strasbourg, France
+
+Reference number: LISA-2021-NP-09
+II.1.2)Main CPV code
+66510000 Insurance services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+Provision of insurance services for eu-LISA's operational site in Strasbourg, France.
+
+The scope of this call for tenders includes the following services:
+
+• provision of optimal insurance coverage against requested risks;
+
+• handling and management of insurance claims in a professional, fast and efficient manner.
+
+II.1.6)Information about lots
+This contract is divided into lots: no
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 325 000.00 EUR
+II.2)Description
+II.2.3)Place of performance
+NUTS code: FR France
+Main site or place of performance:
+
+18 rue de la Faisanderie, 67100 Strasbourg, France.
+
+II.2.4)Description of the procurement:
+
+Non-life insurance:
+
+— property insurance,
+
+— IT equipment insurance,
+
+— non-IT equipment insurance,
+
+— third party liability insurance.
+
+II.2.5)Award criteria
+Price
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below
+
+    Extreme urgency brought about by events unforeseeable for the contracting authority and in accordance with the strict conditions stated in the directive
+
+Explanation:
+
+The conditions, stipulated in Art. 11.1 (c) of Annex I to EU Financial Regulation, were cumulatively fulfilled.
+
+The extreme urgency, brought about by unforeseeable events, is not attributable to the contracting authority. The contracting authority made all possible efforts and took all necessary steps and measures in order to assure the timely continuation of the provision of insurance services for the operational site in Strasbourg, France. Since multiple calls for tenders failed, it may not be responsible for a particular situation in the market, regarding the specificity of the operational site, and furthermore, may not control it. Likewise, it may as well be suggested that the contracting authority acted with due diligence and exhausted all the means and measures, available to it, for acquiring the necessary services of insurance. After multiple unsuccessful calls for tenders, available measures at disposal had to be adopted for securing insurance services for operational site due to its strategic importance and exposure to greater risks.
+
+The negative effects on the market by the launch of this negotiated procedure without prior publication of a contract notice are avoided by strictly respecting the principle of proportionality, which is ensured in the following manner:
+
+— the Agency aims to satisfy only immediate and basic needs of insurance, regarding its operational site. The objective is to acquire the most necessary insurance services, in order to avoid huge financial losses, in case of any accident or event, and to sustain the gap until a stable solution is implemented. It is important to note that this call for tenders does not intend to cover insurance intermediary services or any other additional services or insurance coverage which are not vital to the functioning of the Agency. To this end, the needs of the Agency are considered to be immediate and proportional,
+
+— duration of the foreseen contract is proportional to the satisfaction of the most immediate and basic needs. Envisaged duration of the contract is necessary to complete a new open call for tenders,
+
+— To ensure the competition, more than one economic operator were invited to submit the offers.
+
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: LISA-2021-NP-09
+Title:
+
+Provision of Insurance Services for eu-LISA's Operational Site in Strasbourg, France
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+30/06/2021
+V.2.2)Information about tenders
+Number of tenders received: 1
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: ERGO Insurance SE
+National registration number: 10017013
+Postal address: A. H. Tammsaare tee 47
+Town: Tallinn
+NUTS code: EE Eesti
+Postal code: 11316
+Country: Estonia
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 325 000.00 EUR
+Total value of the contract/lot: 325 000.00 EUR
+V.2.5)Information about subcontracting
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: Rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925 Luxembourg
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.4.3)Review procedure
+Precise information on deadline(s) for review procedures:
+
+Within 2 months of the notification of the award decision, an appeal may be lodged to the Review body in heading VI.4.1. You may submit any observations concerning the award procedure to the contracting authority indicated in heading I.1. If you believe that there was maladministration, you may lodge a complaint to the European Ombudsman within 2 years of the date when you became aware of the facts on which the complaint is based (see http://www.ombudsman.europa.eu). Such complaint does not have as an effect either to suspend the time-limit to launch an appeal or to open a new period for lodging an appeal.
+
+VI.5)Date of dispatch of this notice:
+05/07/2021
+03/06/2021    S106
+
+    I.II.IV.V.VI.
+
+Estonia-Tallinn: LISA-2021-NP-07 (FWC LISA/2017/RP/01 Maintenance in Working Order of the Schengen Information System)
+
+2021/S 106-278072
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: Vesilennuki 5
+Town: Tallinn
+NUTS code: EE Eesti
+Postal code: 10415
+Country: Estonia
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+LISA-2021-NP-07 (FWC LISA/2017/RP/01 Maintenance in Working Order of the Schengen Information System)
+
+Reference number: LISA-2021-NP-07
+II.1.2)Main CPV code
+72000000 IT services: consulting, software development, Internet and support
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+Increase of the maximum ceiling of the framework contract FWC LISA/2017/RP/01 SIS II MWO — framework contract for the maintenance in working order of the Schengen Information System.
+
+II.1.6)Information about lots
+This contract is divided into lots: no
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 40 000 000.00 EUR
+II.2)Description
+II.2.2)Additional CPV code(s)
+72000000 IT services: consulting, software development, Internet and support
+II.2.3)Place of performance
+NUTS code: AT Österreich
+NUTS code: FR France
+II.2.4)Description of the procurement:
+
+Maintenance in working order of the Schengen Information System (SIS II) — new services consisting of repetition of similar services). See initial Procurement documents under restricted procedure ref. LISA/2017/RP/01 published on https://www.eulisa.europa.eu/procurements
+
+II.2.5)Award criteria
+Quality criterion - Name: All criteria are stated only in the procurement documents of the procedure ref. LISA/2017/RP/01 / Weighting: 60
+Price - Weighting: 40
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+See initial Procurement documents under restricted procedure ref. LISA/2017/RP/01 published on https://www.eulisa.europa.eu/procurements
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below
+
+    New works/services, constituting a repetition of existing works/services and ordered in accordance with the strict conditions stated in the directive
+
+Explanation:
+
+— these new services have become necessary due to either finalisation of the Implementing Acts or Regulation of other systems (Adaptation to Interoperability).
+
+A justification is possible under this clause as the scope of the original SIS II MWO FWC was also the creation of a SIS II system that interacts with other systems.
+
+Furthermore, the Framework Contract LISA/2017/RP/01 included the prediction for evolutions, thus, the extra services can be considered either as new evolutions or as extension of similar services foreseen already in the scope of the original FWC as evolutive maintenance, thus is in conformity with a basic project (or rather programme, given its intrinsic complexity and ramification) for which the original Framework Contract LISA/2017/RP/01was awarded.
+
+— the option for the ceiling increase through this Negotiated Procedure was included in the procurement documents of the original Restricted Procedure launched in 2017, ref. LISA/2017/RP/01. See Guide for candidates of the procedure LISA/2017/RP/01 SIS II.
+
+It is to be noted that in the Guide for candidates Art 134.1 (e) RAP to FR was foreseen, as that was the applicable rule at the time of launch of the call for tenders in 2017. In between the new Financial Regulation(Regulation (EU, Euratom) 2018/1046 on the financial rules applicable to the general budget of the Union, repealing Regulation (EU, Euratom) No 966/2012 (2012 Financial Regulation) entered into force with Section 11.1 replacing the previous Art 134.1 e of the RAP.
+
+— the FWC LISA/2017/RP/01 was signed on 1 June 2018, any such Negotiated Procedure (LISA-2021-NP-07) is concluded within the third year following the contract signature in accordance with Regulation (EU, Euratom) 2018/1046, applicable by virtue of Article 89 of Financial Rules of the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA), adopted by the Management Board Decision No 198/2019 rev 1 of 28 August 2019.
+
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2018/S 011-252094
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: Amendment no 4 to FWC LISA/2017/RP/01
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+26/05/2021
+V.2.2)Information about tenders
+Number of tenders received: 1
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: Sopra Steria Benelux SA/NV
+Town: Brussels
+NUTS code: BE Belgique / België
+Country: Belgium
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Total value of the contract/lot: 40 000 000.00 EUR
+V.2.5)Information about subcontracting
+The contract is likely to be subcontracted
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: Rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925 Luxembourg
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+27/05/2021
+02/04/2021    S65
+
+    I.II.IV.V.V.V.V.VI.
+
+Estonia-Tallinn: Provision of Insurance Intermediary Services for eu-LISA
+
+2021/S 065-161707
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: Vesilennuki 5
+Town: Tallinn
+NUTS code: EE Eesti
+Postal code: 10415
+Country: Estonia
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA
+
+Reference number: LISA/2021/NP/01
+II.1.2)Main CPV code
+66518100 Insurance brokerage services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is provision of insurance intermediary services for eu-LISA for non-life insurance products, but may be not limited to these types of insurance. Services consist of arranging and establishing optimal insurance coverage, continuous maintenance, management and administration of insurance coverage and insurance products, consulting, provision of high level support, assistance and advice, handling and managing insurance claims in a professional, fast and efficient manner.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Headquarters in Tallinn, Estonia
+
+Lot No: 1
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: EE Eesti
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 1), including any minimum requirements, are described in detail in the Tender specifications – Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Operational Site and Temporary Site in Strasbourg, France
+
+Lot No: 2
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: FR France
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 2), including any minimum requirements, are described in detail in the tender specifications – Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Business Continuity Site in Sankt Johann im Pongau, Austria
+
+Lot No: 3
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: AT Österreich
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 3), including any minimum requirements, are described in detail in the tender specifications – Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Liaison Office in Brussels, Belgium
+
+Lot No: 4
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: BE Belgique / België
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 4), including any minimum requirements, are described in detail in the tender specifications – Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below
+
+    No tenders or no suitable tenders/requests to participate in response to open procedure
+
+Explanation:
+
+No tenders were submitted in response to the open procedure, Ref. No LISA-2020-OP-01, for the provision of insurance intermediary services for eu-LISA. Based on Article 11.1 (a) of Annex I to Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulation (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014 and repealing Regulation (EU, Euratom) No 966/2012, the negotiated procedure without prior publication of a contract notice was executed, once the open procedure was completed, without any alterations of original procurement documents.
+
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: 1
+Lot No: 1
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s headquarters in Tallinn, Estonia
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section V: Award of contract
+Contract No: 2
+Lot No: 2
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Operational Site and Temporary site in Strasbourg, France
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section V: Award of contract
+Contract No: 3
+Lot No: 3
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Business Continuity Site in Sankt Johann im Pongau, Austria
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section V: Award of contract
+Contract No: 4
+Lot No: 4
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Liaison Office in Brussels, Belgium
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.4.3)Review procedure
+Precise information on deadline(s) for review procedures:
+
+Precise information on deadline(s) for review procedures:
+
+See internet address provided in section I.3).
+
+VI.5)Date of dispatch of this notice:
+29/03/2021
+02/04/2021    S65
+
+    I.II.IV.V.VI.
+
+France-Strasbourg: Provision of Canteen, Catering and other Associated Services at eu-LISA’s Premises in Strasbourg, France
+
+2021/S 065-161704
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)
+Postal address: 18 rue de la Faisanderie
+Town: Strasbourg
+NUTS code: FRF11 Bas-Rhin
+Postal code: 67000
+Country: France
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Canteen, Catering and other Associated Services at eu-LISA’s Premises in Strasbourg, France
+
+Reference number: LISA-2020-OP-05
+II.1.2)Main CPV code
+55500000 Canteen and catering services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is the provision of canteen, catering and other associated services at eu-LISA’s Premises in Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.2)Description
+II.2.1)Title:
+
+Provision of Canteen and Catering Services
+
+Lot No: 1
+II.2.2)Additional CPV code(s)
+55500000 Canteen and catering services
+II.2.3)Place of performance
+NUTS code: FRF11 Bas-Rhin
+II.2.4)Description of the procurement:
+
+The subject of this call for tenders is the provision of canteen and catering services.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality and variety of products / Weighting: 24
+Quality criterion - Name: Quality of services and organisation of the work / Weighting: 24
+Quality criterion - Name: Environmental-friendly solutions proposed / Weighting: 12
+Price - Weighting: 40
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 222-542058
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Lot No: 1
+Title:
+
+Provision of Canteen and Catering Services
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+26/03/2021
+24/03/2021    S58
+
+    I.II.IV.V.VI.
+
+France-Strasbourg: Building Maintenance Services for eu-LISA Premises in Strasbourg
+
+2021/S 058-145408
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)
+Town: Strasbourg
+NUTS code: FR France
+Country: France
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Building Maintenance Services for eu-LISA Premises in Strasbourg
+
+Reference number: LISA-2020-OP-01
+II.1.2)Main CPV code
+50000000 Repair and maintenance services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The services refer to all maintenance processes of civil assets and electromechanical installations at eu-LISA buildings in Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: no
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 7 000 000.00 EUR
+II.2)Description
+II.2.3)Place of performance
+NUTS code: FR France
+II.2.4)Description of the procurement:
+
+This call for tenders will result is the conclusion of a single framework contract for building maintenance services for the current and future buildings occupied by eu-LISA in Strasbourg (France).
+
+II.2.5)Award criteria
+Quality criterion - Name: As per tender specifications / Weighting: 60
+Price - Weighting: 40
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 159-387011
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: FWC LISA-2020-OP-01
+Title:
+
+Building Maintenance Services for eu-LISA Premises in Strasbourg
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+11/03/2021
+V.2.2)Information about tenders
+Number of tenders received: 1
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: AXIMA Concept (commercial name: ENGIE Solutions S.A.)
+National registration number: 854 800 745 01554
+Town: Paris
+NUTS code: FR France
+Country: France
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 7 000 000.00 EUR
+Total value of the contract/lot: 7 000 000.00 EUR
+V.2.5)Information about subcontracting
+The contract is likely to be subcontracted
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+17/03/2021
+11/02/2021    S29
+
+    I.II.IV.V.V.VI.
+
+Estonia-Tallinn: Provision of Office Supplies for eu-LISA
+
+2021/S 029-070753
+
+Contract award notice
+
+Results of the procurement procedure
+
+Supplies
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA)
+Postal address: Vesilennuki 5
+Town: Tallinn
+NUTS code: EE EESTI
+Postal code: 10415
+Country: Estonia
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Office Supplies for eu-LISA
+
+Reference number: LISA-2020-OP-03
+II.1.2)Main CPV code
+30192000 Office supplies
+II.1.3)Type of contract
+Supplies
+II.1.4)Short description:
+
+The subject of this call for tenders is provision of office supplies for eu-LISA offices in Tallinn, Estonia, and Strasbourg, France.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.1.7)Total value of the procurement (excluding VAT)
+Value excluding VAT: 500 000.00 EUR
+II.2)Description
+II.2.1)Title:
+
+Provision of Office Supplies for eu-LISA Tallinn Office
+
+Lot No: 1
+II.2.2)Additional CPV code(s)
+30192000 Office supplies
+30190000 Various office equipment and supplies
+II.2.3)Place of performance
+NUTS code: EE EESTI
+Main site or place of performance:
+
+Tallinn.
+
+II.2.4)Description of the procurement:
+
+The subject of this call for tenders is provision of office supplies for eu-LISA offices in Tallinn, Estonia.
+
+II.2.5)Award criteria
+Quality criterion - Name: Assortment and quality of products; ordering, delivery and transportation; customer service / Weighting: 0.6
+Price - Weighting: 0.4
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Office Supplies for eu-LISA office, Strasbourg, France
+
+Lot No: 2
+II.2.2)Additional CPV code(s)
+30192000 Office supplies
+30190000 Various office equipment and supplies
+II.2.3)Place of performance
+NUTS code: FR FRANCE
+Main site or place of performance:
+
+Strasbourg.
+
+II.2.4)Description of the procurement:
+
+The subject of this call for tenders is provision of office supplies for eu-LISA offices in Strasbourg, France.
+
+II.2.5)Award criteria
+Quality criterion - Name: Assortment and quality of products; ordering, delivery and transportation; customer service / Weighting: 0.6
+Price - Weighting: 0.4
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 159-387010
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Contract No: LISA-2020-OP-03 Lot 1
+Lot No: 1
+Title:
+
+Provision of Office Supplies for eu-LISA Tallinn Office
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+27/01/2021
+V.2.2)Information about tenders
+Number of tenders received: 1
+Number of tenders received by electronic means: 1
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: AS Infotark
+National registration number: 10047988
+Postal address: Peterburi tee 92E
+Town: Tallinn
+NUTS code: EE EESTI
+Postal code: 11415
+Country: Estonia
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 200 000.00 EUR
+Total value of the contract/lot: 200 000.00 EUR
+V.2.5)Information about subcontracting
+
+Section V: Award of contract
+Contract No: LISA-2020-OP-03 Lot 2
+Lot No: 2
+Title:
+
+Provision of Office Supplies for eu-LISA office, Strasbourg, France
+
+A contract/lot is awarded: yes
+V.2)Award of contract
+V.2.1)Date of conclusion of the contract:
+27/01/2021
+V.2.2)Information about tenders
+Number of tenders received: 2
+Number of tenders received from tenderers from other EU Member States: 1
+Number of tenders received by electronic means: 2
+The contract has been awarded to a group of economic operators: no
+V.2.3)Name and address of the contractor
+Official name: Lyreco France SAS
+National registration number: B57172266900264
+Postal address: Lyreco France Rue Alphonse Terroir
+Town: Marly
+NUTS code: FR FRANCE
+Postal code: 59770
+Country: France
+The contractor is an SME: no
+V.2.4)Information on value of the contract/lot (excluding VAT)
+Initial estimated total value of the contract/lot: 300 000.00 EUR
+Total value of the contract/lot: 300 000.00 EUR
+V.2.5)Information about subcontracting
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.5)Date of dispatch of this notice:
+04/02/2021
+25/01/2021    S16
+
+    I.II.IV.V.V.V.V.VI.
+
+Estonia-Tallinn: Provision of Insurance Intermediary Services for eu-LISA
+
+2021/S 016-035191
+
+Contract award notice
+
+Results of the procurement procedure
+
+Services
+Legal Basis:
+Regulation (EU, Euratom) No 2018/1046
+
+Section I: Contracting authority
+I.1)Name and addresses
+Official name: European Union Agency for the Operational Management of Large-scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)
+Postal address: Vesilennuki 5
+Town: Tallinn
+NUTS code: EE EESTI
+Postal code: 10415
+Country: Estonia
+E-mail: eulisa-procurement@eulisa.europa.eu
+Internet address(es):
+Main address: https://www.eulisa.europa.eu/Pages/default.aspx
+Address of the buyer profile: www.eulisa.europa.eu/procurements
+I.4)Type of the contracting authority
+European institution/agency or international organisation
+I.5)Main activity
+General public services
+
+Section II: Object
+II.1)Scope of the procurement
+II.1.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA
+
+Reference number: LISA-2020-OP-02
+II.1.2)Main CPV code
+66518100 Insurance brokerage services
+II.1.3)Type of contract
+Services
+II.1.4)Short description:
+
+The subject of this call for tenders is provision of insurance intermediary services for eu-LISA for non-life insurance products, but may be not limited to these types of insurance. Services consist of arranging and establishing optimal insurance coverage, continuous maintenance, management and administration of insurance coverage and insurance products, consulting, provision of high level support, assistance and advice, handling and managing insurance claims in a professional, fast and efficient manner.
+
+II.1.6)Information about lots
+This contract is divided into lots: yes
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Headquarters in Tallinn, Estonia
+
+Lot No: 1
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: EE EESTI
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 1), including any minimum requirements, are described in detail in the tender specifications — Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Operational Site and Temporary site in Strasbourg, France
+
+Lot No: 2
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: FR FRANCE
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 2), including any minimum requirements, are described in detail in the Tender Specifications — Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Business Continuity Site in Sankt Johann im Pongau, Austria
+
+Lot No: 3
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: AT ÖSTERREICH
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 3), including any minimum requirements, are described in detail in the tender specifications – Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: no
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+II.2)Description
+II.2.1)Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Liaison Office in Brussels, Belgium
+
+Lot No: 4
+II.2.2)Additional CPV code(s)
+66510000 Insurance services
+II.2.3)Place of performance
+NUTS code: BE BELGIQUE-BELGIË
+II.2.4)Description of the procurement:
+
+Insurance intermediary services, that are subject of this call for tenders (Lot 4), including any minimum requirements, are described in detail in the Tender Specifications – Part 2: Technical specifications.
+
+II.2.5)Award criteria
+Quality criterion - Name: Quality / Weighting: 60 %
+Price - Weighting: 40 %
+II.2.11)Information about options
+Options: yes
+Description of options:
+
+>....
+
+II.2.13)Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union funds: no
+II.2.14)Additional information
+
+Section IV: Procedure
+IV.1)Description
+IV.1.1)Type of procedure
+Open procedure
+IV.1.3)Information about a framework agreement or a dynamic purchasing system
+The procurement involves the establishment of a framework agreement
+IV.1.8)Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: no
+IV.2)Administrative information
+IV.2.1)Previous publication concerning this procedure
+Notice number in the OJ S: 2020/S 231-568521
+IV.2.8)Information about termination of dynamic purchasing system
+IV.2.9)Information about termination of call for competition in the form of a prior information notice
+
+Section V: Award of contract
+Lot No: 1
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Headquarters in Tallinn, Estonia
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section V: Award of contract
+Contract No: 2
+Lot No: 2
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Operational Site and Temporary Site in Strasbourg, France
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section V: Award of contract
+Contract No: 3
+Lot No: 3
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Business Continuity Site in Sankt Johann im Pongau, Austria
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section V: Award of contract
+Contract No: 4
+Lot No: 4
+Title:
+
+Provision of Insurance Intermediary Services for eu-LISA’s Liaison Office in Brussels, Belgium
+
+A contract/lot is awarded: no
+V.1)Information on non-award
+The contract/lot is not awarded
+No tenders or requests to participate were received or all were rejected
+
+Section VI: Complementary information
+VI.3)Additional information:
+VI.4)Procedures for review
+VI.4.1)Review body
+Official name: General Court of the European Union
+Postal address: rue du Fort Niedergrünewald
+Town: Luxembourg
+Postal code: L-2925 Luxembourg
+Country: Luxembourg
+E-mail: GeneralCourt.Registry@curia.europa.eu
+Telephone: +352 4303-1
+Fax: +352 4303-2100
+Internet address: http://www.curia.europa.eu
+VI.4.3)Review procedure
+Precise information on deadline(s) for review procedures:
+
+See internet address provided in section I.3).
+
+VI.5)Date of dispatch of this notice:
+18/01/2021
+
 02/12/2015    S233
 
     I.II.IV.V.VI.
