@@ -1,5 +1,2413 @@
 [
     {
+        "id": "283535-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for Provision of Personal Protective Equipment (PPE) and Sanitary Items",
+            "cpv": "33000000 Medical equipments, pharmaceuticals and personal care products",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "60 580 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: As stated in the procurement documents / Weighting: 60 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/534/2020/DT",
+                "number_tenders_received": "4",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " IGEFA Handelsgesellschaft mbH & Co. KG",
+                    " International SOS Europe Government Services S.R.L.",
+                    " Kronosan S.R.L.",
+                    " N.B.C. System S.R.L.",
+                    " BLS S.R.L."
+                ],
+                "contractors_postal_address": [
+                    " Henry-Kruse-Strasse 1",
+                    " Heyzel Esplanade 1, b007",
+                    " VIA Vecchia Corriera 11",
+                    " Localita Volparo snc",
+                    " via Pietro Maroncelli 17"
+                ],
+                "contractors_town": [
+                    " Blumberg",
+                    " Brussels",
+                    " Cotignola (Ravenna)",
+                    " Blera (VT)",
+                    " Milano"
+                ],
+                "contractors_nuts": [
+                    " DE Deutschland",
+                    " BE Belgique / België",
+                    " IT Italia",
+                    " IT Italia",
+                    " IT Italia"
+                ],
+                "contractors_postal_code": [
+                    " 16356",
+                    " 1020",
+                    " 48033",
+                    " 01010",
+                    " 20154"
+                ],
+                "contractors_country": [
+                    " Germany",
+                    " Belgium",
+                    " Italy",
+                    " Italy",
+                    " Italy"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "total_value": "60 580 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "234545-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Purchase of Drones and Payloads",
+            "cpv": "35125000 Surveillance system",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "2 000 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Price",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/884/2020/JL",
+                "number_tenders_received": "12",
+                "group_economic_operators": "yes",
+                "subcontracting": "NA",
+                "contractors": [
+                    " NaviGate Sp. z o.o.",
+                    " Aviation Technik Sp. z o.o."
+                ],
+                "contractors_postal_address": [
+                    " Wadowicka 8a",
+                    " Jagiellonska 69/2"
+                ],
+                "contractors_town": [
+                    " Krakow",
+                    " Bydgoszcz"
+                ],
+                "contractors_nuts": [
+                    " PL213 Miasto Kraków",
+                    " PL613 Bydgosko-toruński"
+                ],
+                "contractors_postal_code": [
+                    " 30-415",
+                    " 85-027"
+                ],
+                "contractors_country": [
+                    " Poland",
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "total_value": "2 000 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "226849-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency — Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for the Provision of Facility Management-related Services",
+            "cpv": "70330000 Property management services of real estate on a fee or contract basis",
+            "type": "Services",
+            "description": "",
+            "total_value": "NA",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/946/2020/AH/AA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "174119-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (Frontex)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "tender@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Provision of Research and Innovation Assistance and Advisory Services",
+            "cpv": "73000000 Research and development services and related consultancy services",
+            "type": "Services",
+            "description": "",
+            "total_value": "4 500 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "73000000 Research and development services and related consultancy services",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 70",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "2",
+                "group_economic_operators": "yes",
+                "subcontracting": "",
+                "contractors": [
+                    " PWC – Pricewaterhousecoopers EU Services EESV",
+                    " ISDEFE – Ingenieria Sistemas Para la Defensa de Espana"
+                ],
+                "contractors_postal_address": [
+                    " Woluwedal 18",
+                    " 3, Beatriz de Bobadilla Street"
+                ],
+                "contractors_town": [
+                    " Sint-Stevens-Woluwe",
+                    " Madrid"
+                ],
+                "contractors_nuts": [
+                    " BE Belgique / België",
+                    " ES España"
+                ],
+                "contractors_postal_code": [
+                    " 1932",
+                    " 28040"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Spain"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "total_value": "700 000.00 EUR"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "4",
+                "group_economic_operators": "yes",
+                "subcontracting": "",
+                "contractors": [
+                    " Deloitte — Deloitte Consulting and Advisory CVBA",
+                    " PWC – Pricewaterhousecoopers EU Services EESV",
+                    " EPRD consortium – Office for Economic Policy and Regional Development"
+                ],
+                "contractors_postal_address": [
+                    " Luchthaven Brusset Nationaal 1J",
+                    " Woluwedal 18",
+                    " Szkolna Street, No 36 A"
+                ],
+                "contractors_town": [
+                    " Zaventem",
+                    " Sint-Stevens-Woluwe",
+                    " Kielce"
+                ],
+                "contractors_nuts": [
+                    " BE Belgique / België",
+                    " BE Belgique / België",
+                    " PL Polska"
+                ],
+                "contractors_postal_code": [
+                    " 1930",
+                    " 1932",
+                    " 25-604"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " Belgium",
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "total_value": "2 400 000.00 EUR"
+            },
+            {
+                "contract_no": "3",
+                "number_tenders_received": "1",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " PWC — Pricewaterhousecoopers EU Services EESV"
+                ],
+                "contractors_postal_address": [
+                    " 1932"
+                ],
+                "contractors_town": [
+                    " Sint-Stevens-Woluwe"
+                ],
+                "contractors_nuts": [
+                    " BE Belgique / België"
+                ],
+                "contractors_postal_code": [
+                    " Woluwedal 18"
+                ],
+                "contractors_country": [
+                    " Belgium"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "1 400 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "170109-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL Polska",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Public order and safety"
+        },
+        "object": {
+            "title": "Purchase of Multifunctional Scanning Peripherals",
+            "cpv": "35120000 Surveillance and security systems and devices",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "1 000 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "30233320 Combined smart card and fingerprint readers",
+            "award_criteria": "Quality criterion - Name: Technical award criteria indicated in the tender specifications / Weighting: 0.4",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "1",
+                "number_tenders_received": "5",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " Jas Technologie Sp z oo"
+                ],
+                "contractors_postal_address": [
+                    " Tomcia Palucha 14/47"
+                ],
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL Polska"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes"
+                ],
+                "total_value": "350 000.00 EUR"
+            },
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "158704-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Leasing or Long-term Lease of Vehicles and Associated Services for Frontex Operational Activities",
+            "cpv": "34110000 Passenger cars",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "5 000 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "34113000 4-wheel-drive vehicles",
+            "award_criteria": "Quality criterion - Name: Delivery lead time / Weighting: 30",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex OP/658/2020/RS",
+                "number_tenders_received": "3",
+                "group_economic_operators": "yes",
+                "subcontracting": "",
+                "contractors": [
+                    " Dom Volvo Car Sp. z o.o.",
+                    " Mleasing Sp. z o.o."
+                ],
+                "contractors_postal_address": [
+                    " Puławska 558/560",
+                    " Skorupki 5"
+                ],
+                "contractors_town": [
+                    " Warsaw",
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa",
+                    " PL911 Miasto Warszawa"
+                ],
+                "contractors_postal_code": [
+                    " 02-884",
+                    " 00-963"
+                ],
+                "contractors_country": [
+                    " Poland",
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes",
+                    " no"
+                ],
+                "total_value": "3 500 000.00 EUR"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "2",
+                "group_economic_operators": "yes",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Dom Volvo Car Sp. z o.o.",
+                    " Mleasing Sp. z o.o."
+                ],
+                "contractors_postal_address": [
+                    " Puławska 558/560",
+                    " Skorupki 5"
+                ],
+                "contractors_town": [
+                    " Warsaw",
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa",
+                    " PL911 Miasto Warszawa"
+                ],
+                "contractors_postal_code": [
+                    " 02-884",
+                    " 00-963"
+                ],
+                "contractors_country": [
+                    " Poland",
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes",
+                    " no"
+                ],
+                "total_value": "1 500 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "135084-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency — Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Entry Exit System Land Border Pilot",
+            "cpv": "73000000 Research and development services and related consultancy services",
+            "type": "Services",
+            "description": "",
+            "total_value": "1 500 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "73000000 Research and development services and related consultancy services",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/433/2020/AH",
+                "number_tenders_received": "11",
+                "group_economic_operators": "no",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors": [
+                    " VISION BOX -SOLUCOES DE VISAO PORCOMPUTADOR SA"
+                ],
+                "contractors_postal_address": "NA",
+                "contractors_town": [
+                    " Carnaxide"
+                ],
+                "contractors_nuts": [
+                    " PT1 Continente"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Portugal"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "464 587.12 EUR"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "9",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " EVERIS AEROESPACIAL Y DEFENSA SL"
+                ],
+                "contractors_postal_address": "NA",
+                "contractors_town": [
+                    " Madrid"
+                ],
+                "contractors_nuts": [
+                    " ES300 Madrid"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Spain"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "693 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "103858-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for the Provision of Fuel Cards Services and Associated Services for Frontex Vehicles",
+            "cpv": "79900000 Miscellaneous business and business-related services",
+            "type": "Services",
+            "description": "",
+            "total_value": "NA",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "30163100 Agency fuel cards",
+            "award_criteria": "Price",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "101568-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "FRONTEX",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Single Framework Contract for Satellite Imagery Provisioning",
+            "cpv": "79714000 Surveillance services",
+            "type": "Services",
+            "description": "",
+            "total_value": "4 000 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: As listed in Tender Specifications / Weighting: 60 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/391/2020/DT",
+                "number_tenders_received": "3",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " GAF AG"
+                ],
+                "contractors_postal_address": [
+                    " Arnulfstrasse 199"
+                ],
+                "contractors_town": [
+                    " Munich"
+                ],
+                "contractors_nuts": [
+                    " DE Deutschland"
+                ],
+                "contractors_postal_code": [
+                    " 80634"
+                ],
+                "contractors_country": [
+                    " Germany"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "4 000 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "057192-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL POLSKA",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Public order and safety"
+        },
+        "object": {
+            "title": "Cisco Advanced Services",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "description": "",
+            "total_value": "300 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Price",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "1",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Atende SA"
+                ],
+                "contractors_postal_address": [
+                    " Pl Konesera 10A"
+                ],
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL POLSKA"
+                ],
+                "contractors_postal_code": [
+                    " 03-736"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "300 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "048750-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "Frontex - European Border and Coast Guard Agency",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Multiple Framework Contract with Reopening of Competition for the Provision Services for Development, Consultancy and Support of Information Systems under Time and Means Conditions",
+            "cpv": "79600000 Recruitment services",
+            "type": "Services",
+            "description": "",
+            "total_value": "34 000 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "79620000 Supply services of personnel including temporary staff",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 50",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "FRONTEX/OP/301/2019",
+                "number_tenders_received": "22",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " ARHS Developments S.A.",
+                    " Consortium ATOS POLSKA S.A. (leader)",
+                    " UNI Systems Information Technology Systems Commercial S.M.S.A. (Partner)",
+                    " UNI Systems Luxembourg S.a.r.l. (Partner)",
+                    " Computer Resources International S.A. (Partner)",
+                    " Avalon Tecnologías de la Información S.L.",
+                    " Engineering Ingegneria Informatica S.P.A.",
+                    " Fabrity SP. Z O.O.",
+                    " JIT Team SP. Z O.O.",
+                    " Hellenic Telecommunications Organization S.A. – OTE S.A. (Leader)",
+                    " FINCONS S.P.A. (Partner)",
+                    " PWC EU Services EESV (Leader)",
+                    " PWC IT Services SP. Z O.O. (Partner)",
+                    " Soitron Group SE",
+                    " Trasys International G.E.I.E."
+                ],
+                "contractors_postal_address": [
+                    " Boulevard du Jazz 13",
+                    " Ul. Krolewska 16",
+                    " Alexandrou Pantou 19-23, Athens",
+                    " rue Edward Steichen 26",
+                    " Rue de l’Industrie 11",
+                    " Calle de Alcalá, 63, 3ª Planta",
+                    " Piazzale dell’Agricoltura 24",
+                    " Ul. Domaniewska 44A",
+                    " Al. Zwyciestwa 96/98",
+                    " 99 Kifissias Av., Maroussi",
+                    " Corso Magenta 56",
+                    " Woluwedal 18",
+                    " Ul. Polna 11",
+                    " Plynarenska 5",
+                    " Rue d’Arlon 53-7"
+                ],
+                "contractors_town": [
+                    " Belvaux",
+                    " Warsaw",
+                    " Kallithea",
+                    " Luxembourg",
+                    " Windhof",
+                    " Madrid",
+                    " Rome",
+                    " Warsaw",
+                    " Gdynia",
+                    " Athens",
+                    " Milan",
+                    " Sint-Stevens-Woluwe",
+                    " Warsaw",
+                    " Bratislava",
+                    " Brussels"
+                ],
+                "contractors_nuts": [
+                    " LU LUXEMBOURG",
+                    " PL POLSKA",
+                    " EL ΕΛΛΑΔΑ",
+                    " LU LUXEMBOURG",
+                    " LU LUXEMBOURG",
+                    " ES ESPAÑA",
+                    " IT ITALIA",
+                    " PL POLSKA",
+                    " PL POLSKA",
+                    " EL ΕΛΛΑΔΑ",
+                    " IT ITALIA",
+                    " BE BELGIQUE-BELGIË",
+                    " PL POLSKA",
+                    " SK SLOVENSKO",
+                    " BE BELGIQUE-BELGIË"
+                ],
+                "contractors_postal_code": [
+                    " 4370",
+                    " 00-103",
+                    " 17671",
+                    " L-2540",
+                    " L8399",
+                    " 28014",
+                    " 00144",
+                    " 02-672",
+                    " 81-451",
+                    " 15124",
+                    " 20123",
+                    " 1932",
+                    " 00-633",
+                    " 829 75",
+                    " 1040"
+                ],
+                "contractors_country": [
+                    " Luxembourg",
+                    " Poland",
+                    " Greece",
+                    " Luxembourg",
+                    " Luxembourg",
+                    " Spain",
+                    " Italy",
+                    " Poland",
+                    " Poland",
+                    " Greece",
+                    " Italy",
+                    " Belgium",
+                    " Poland",
+                    " Slovakia",
+                    " Belgium"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "total_value": "34 000 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "010370-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency — Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Maritime Analysis Tools",
+            "cpv": "72316000 Data analysis services",
+            "type": "Services",
+            "description": "",
+            "total_value": "2 600 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 70",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/RP/1181/2019/AH",
+                "number_tenders_received": "2",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Windward Ltd"
+                ],
+                "contractors_postal_address": "NA",
+                "contractors_town": [
+                    " Tel Aviv"
+                ],
+                "contractors_nuts": [
+                    " IL ISRAEL"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Israel"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "1 807 200.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "010369-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency — Frontex",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Research Study on Technology Foresight on Biometrics for the Future of Travel",
+            "cpv": "73000000 Research and development services and related consultancy services",
+            "type": "Services",
+            "description": "",
+            "total_value": "500 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/515/2020/AH",
+                "number_tenders_received": "3",
+                "group_economic_operators": "no",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors": [
+                    " Steinbeis 2I GMBH"
+                ],
+                "contractors_postal_address": "NA",
+                "contractors_town": [
+                    " Stuttgart"
+                ],
+                "contractors_nuts": [
+                    " DE DEUTSCHLAND"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Germany"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "491 500.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "008683-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "Frontex - European Border and Coast Guard Agency",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Maritime Surveillance Aerostat 2 Technology Pilot",
+            "cpv": "79714000 Surveillance services",
+            "type": "Services",
+            "description": "",
+            "total_value": "3 009 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical score / Weighting: 0.60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/612/2020/JL",
+                "number_tenders_received": "3",
+                "group_economic_operators": "yes",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors": [
+                    " in-innovative navigation GmbH",
+                    " CNIM AIR SPACE SAS"
+                ],
+                "contractors_postal_address": [
+                    " Leibnizstraße 11",
+                    " 2 Chemin de la Val Priout, ZA Labal Prioul"
+                ],
+                "contractors_town": [
+                    " Kornwestheim",
+                    " Ayguesvives"
+                ],
+                "contractors_nuts": [
+                    " DE115 Ludwigsburg",
+                    " FRJ23 Haute-Garonne"
+                ],
+                "contractors_postal_code": [
+                    " 70806",
+                    " 31450"
+                ],
+                "contractors_country": [
+                    " Germany",
+                    " France"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "total_value": "3 009 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "572785-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Nautical Charts Web Map Service Design, Transition and Operation",
+            "cpv": "71354500 Marine survey services",
+            "type": "Services",
+            "description": "",
+            "total_value": "NA",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Price",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "572784-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Meteorological and Oceanographic Services",
+            "cpv": "71351610 Meteorology services",
+            "type": "Services",
+            "description": "",
+            "total_value": "5 000 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "71351610 Meteorology services",
+            "award_criteria": "Quality criterion - Name: Project and service management / Weighting: 20",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/234/2021/RS_ Lot 1",
+                "number_tenders_received": "2",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " Meteomatics AG"
+                ],
+                "contractors_postal_address": [
+                    " Lerchenfeldstrasse 3"
+                ],
+                "contractors_town": [
+                    " St. Gallen"
+                ],
+                "contractors_nuts": [
+                    " CH Schweiz / Suisse / Svizzera"
+                ],
+                "contractors_postal_code": [
+                    " 9014"
+                ],
+                "contractors_country": [
+                    " Switzerland"
+                ],
+                "contractors_sme": [
+                    " yes"
+                ],
+                "total_value": "916 000.00 EUR"
+            },
+            {
+                "contract_no": "Frontex/OP/234/2021/RS Lot 2",
+                "number_tenders_received": "2",
+                "group_economic_operators": "yes",
+                "subcontracting": "",
+                "contractors": [
+                    " Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici - leader",
+                    " Biblomatica SAC",
+                    " ETT S.P.A.",
+                    " Danmarks Meteorologiske Institut"
+                ],
+                "contractors_postal_address": [
+                    " Via Augusto Imperatore 16",
+                    " Santiago de Compostela 12-4º A",
+                    " Via Sestri 37",
+                    " Lyngbyvej 100"
+                ],
+                "contractors_town": [
+                    " Lecce",
+                    " Bilbao",
+                    " Genova",
+                    " Copenhagen"
+                ],
+                "contractors_nuts": [
+                    " IT Italia",
+                    " ES España",
+                    " IT Italia",
+                    " DK Danmark"
+                ],
+                "contractors_postal_code": [
+                    " 73100",
+                    " 48003",
+                    " 48003",
+                    " 2100"
+                ],
+                "contractors_country": [
+                    " Italy",
+                    " Spain",
+                    " Italy",
+                    " Denmark"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " yes",
+                    " yes",
+                    " no"
+                ],
+                "total_value": "1 290 000.00 EUR"
+            },
+            {
+                "contract_no": "Frontex/OP/234/2021/RS Lot 3",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "572781-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for the Supply of Drug and Explosive Detectors",
+            "cpv": "38544000 Drug detection apparatus",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "300 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "38544000 Drug detection apparatus",
+            "award_criteria": "Quality criterion - Name: Optional technical requirement, additional warranty, delivery time / Weighting: 40",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/50/2021/RS Lot 1",
+                "number_tenders_received": "1",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " TUSNOVICS INSTRUMENTS Sp. z o. o."
+                ],
+                "contractors_postal_address": [
+                    " Bociana 4A/49A"
+                ],
+                "contractors_town": [
+                    " Kraków"
+                ],
+                "contractors_nuts": [
+                    " PL Polska"
+                ],
+                "contractors_postal_code": [
+                    " 31-231"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes"
+                ],
+                "total_value": "177 900.00 EUR"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "549089-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Defence"
+        },
+        "object": {
+            "title": "Framework Contract (FWC) for the Supply of Service Weapons (Compact 9x19 mm Semi-Automatic Pistol), Ammunition and Accessories",
+            "cpv": "35300000 Weapons, ammunition and associated parts",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "3 760 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "35300000 Weapons, ammunition and associated parts",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 50 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/2021/0395/OP/MS",
+                "number_tenders_received": "3",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Glock Ges. m.b.H."
+                ],
+                "contractors_postal_address": [
+                    " Gaston Glock-Platz 1"
+                ],
+                "contractors_town": [
+                    " Deutsch-Wagram"
+                ],
+                "contractors_nuts": [
+                    " AT Österreich"
+                ],
+                "contractors_postal_code": [
+                    " 2232"
+                ],
+                "contractors_country": [
+                    " Austria"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "3 760 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "548978-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Defence"
+        },
+        "object": {
+            "title": "Framework Contract (FWC) for the supply of service weapons (compact 9x19 mm semi-automatic pistol), ammunition and accessories",
+            "cpv": "35300000 Weapons, ammunition and associated parts",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "1 240 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "35300000 Weapons, ammunition and associated parts",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 50 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/2021/0395/OP/MS",
+                "number_tenders_received": "2",
+                "group_economic_operators": "yes",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Mildat Sp. z o.o.",
+                    " Parasnake Arkadiusz Szewczyk"
+                ],
+                "contractors_postal_address": [
+                    " ul. Elektronowa 2",
+                    " ul. Stefana Żeromskiego, nr 30"
+                ],
+                "contractors_town": [
+                    " Warszawa",
+                    " Kielce"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa",
+                    " PL721 Kielecki"
+                ],
+                "contractors_postal_code": [
+                    " 13-219",
+                    " 25-370"
+                ],
+                "contractors_country": [
+                    " Poland",
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes",
+                    " yes"
+                ],
+                "total_value": "1 240 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "545963-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for the Provision of Services for Business Content Development Related to the Data Management and Analytics Software Used by FRONTEX",
+            "cpv": "72300000 Data services",
+            "type": "Services",
+            "description": "",
+            "total_value": "4 000 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/498/2020/AH",
+                "number_tenders_received": "2",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " SAS Institute Sp. z o.o."
+                ],
+                "contractors_postal_address": "NA",
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "4 000 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "545961-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "tender@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Defence"
+        },
+        "object": {
+            "title": "Purchase of Service Uniforms",
+            "cpv": "18100000 Occupational clothing, special workwear and accessories",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "20 000 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "18300000 Garments",
+            "award_criteria": "Quality criterion - Name: Technical quality / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/551/2020/ZB/MS",
+                "number_tenders_received": "3",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " Arlen S.A."
+                ],
+                "contractors_postal_address": [
+                    " Branickiego 17"
+                ],
+                "contractors_town": [
+                    " Warszawa"
+                ],
+                "contractors_nuts": [
+                    " PL91 Warszawski stołeczny"
+                ],
+                "contractors_postal_code": [
+                    " 02-972"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "16 500 000.00 EUR"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "4",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Arlen S.A."
+                ],
+                "contractors_postal_address": [
+                    " Adama Branickiego 17"
+                ],
+                "contractors_town": [
+                    " Warszawa"
+                ],
+                "contractors_nuts": [
+                    " PL91 Warszawski stołeczny"
+                ],
+                "contractors_postal_code": [
+                    " 02-972"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "3 500 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "520856-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for the Provision of Facility Management-Related Services",
+            "cpv": "70330000 Property management services of real estate on a fee or contract basis",
+            "type": "Services",
+            "description": "",
+            "total_value": "1 500 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical merit / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Award of a contract without prior publication of a call for competition in the Official Journal of the European Union in the cases listed below"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/NP/369/2021/AH/AA",
+                "number_tenders_received": "2",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Zintegrowane Systemy Techniczne Sp. z o.o."
+                ],
+                "contractors_postal_address": [
+                    " Al. Jerozolimskie 212A"
+                ],
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa"
+                ],
+                "contractors_postal_code": [
+                    " 02-486"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "1 500 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "520855-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL Polska",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Public order and safety"
+        },
+        "object": {
+            "title": "Provision of Cleaning Services for FRONTEX",
+            "cpv": "90000000 Sewage, refuse, cleaning and environmental services",
+            "type": "Services",
+            "description": "",
+            "total_value": "600 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical criteria indicated in the Tender Specifications / Weighting: 0.7",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "2",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " DC System Sp. z o.o."
+                ],
+                "contractors_postal_address": "NA",
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL Polska"
+                ],
+                "contractors_postal_code": "NA",
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes"
+                ],
+                "total_value": "600 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "520854-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL Polska",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Public order and safety"
+        },
+        "object": {
+            "title": "Provision of FRONTEX Corporate Calendars",
+            "cpv": "22000000 Printed matter and related products",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "250 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: Technical award criteria indicated in the Tender Specifications / Weighting: 0.6",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "2",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " ARCH s.c. Miroslawa Nowicka, Marek Nowicki"
+                ],
+                "contractors_postal_address": [
+                    " Obroki 130"
+                ],
+                "contractors_town": [
+                    " Katowice"
+                ],
+                "contractors_nuts": [
+                    " PL Polska"
+                ],
+                "contractors_postal_code": [
+                    " 40-833"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " yes"
+                ],
+                "total_value": "250 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "415069-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Defence"
+        },
+        "object": {
+            "title": "FWC for Provision of SARS-CoV-2 Testing and Close Contacts Tracing",
+            "cpv": "85140000 Miscellaneous health services",
+            "type": "Services",
+            "description": "",
+            "total_value": "6 306 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "85140000 Miscellaneous health services",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 60 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/2021/0143/OP/MS",
+                "number_tenders_received": "3",
+                "group_economic_operators": "no",
+                "subcontracting": "",
+                "contractors": [
+                    " ALAB laboratoria Sp. z o.o."
+                ],
+                "contractors_postal_address": [
+                    " Stępińska 22/30"
+                ],
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa"
+                ],
+                "contractors_postal_code": [
+                    " 00-739"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "6 254 000.00 EUR"
+            },
+            {
+                "contract_no": "Frontex/2021/0143/OP/MS",
+                "number_tenders_received": "1",
+                "group_economic_operators": "no",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Petra Medica Sp. z o.o."
+                ],
+                "contractors_postal_address": [
+                    " Grochowska 166"
+                ],
+                "contractors_town": [
+                    " Warsaw"
+                ],
+                "contractors_nuts": [
+                    " PL911 Miasto Warszawa"
+                ],
+                "contractors_postal_code": [
+                    " 04-329"
+                ],
+                "contractors_country": [
+                    " Poland"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "52 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "395424-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Frontex Surveillance Aircraft Services for Border and Coast Guard Functions (FSA I)",
+            "cpv": "60440000 Aerial and related services",
+            "type": "Services",
+            "description": "",
+            "total_value": "53 600 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "60440000 Aerial and related services",
+            "award_criteria": "Quality criterion - Name: Compliance to technical requirements / Weighting: 100",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "5",
+                "group_economic_operators": "no",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors": [
+                    " DEA Aviation"
+                ],
+                "contractors_postal_address": [
+                    " Retford Gamston Airport"
+                ],
+                "contractors_town": [
+                    " Retford"
+                ],
+                "contractors_nuts": [
+                    " UKF15 North Nottinghamshire"
+                ],
+                "contractors_postal_code": [
+                    " DN22 0QL"
+                ],
+                "contractors_country": [
+                    " United Kingdom"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "53 600 000.00 EUR"
+            },
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "5",
+                "group_economic_operators": "yes",
+                "subcontracting": "NA",
+                "contractors": [
+                    " EASP Air BV",
+                    " 2. Scotty Group Austria GmbH",
+                    " 2Excel Aviation Ltd"
+                ],
+                "contractors_postal_address": [
+                    " Thermiekstraat 52",
+                    " Teslastrasse 4",
+                    " Sywell Aerodrome"
+                ],
+                "contractors_town": [
+                    " Schiphol",
+                    " Grambach",
+                    " Sywell"
+                ],
+                "contractors_nuts": [
+                    " NL324 Agglomeratie Haarlem",
+                    " AT221 Graz",
+                    " UKF25 North Northamptonshire"
+                ],
+                "contractors_postal_code": [
+                    " 1117 BD",
+                    " 8074",
+                    " NN6 0BN"
+                ],
+                "contractors_country": [
+                    " Netherlands",
+                    " Austria",
+                    " United Kingdom"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "total_value": "53 600 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "395423-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Frontex Surveillance Aircraft Services for Border and Coast Guard Functions (FSA I)",
+            "cpv": "60440000 Aerial and related services",
+            "type": "Services",
+            "description": "",
+            "total_value": "30 900 000.00 EUR",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "60440000 Aerial and related services",
+            "award_criteria": "Quality criterion - Name: Compliance to technical requirements / Weighting: 100",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "5",
+                "group_economic_operators": "no",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors": [
+                    " DEA Aviation"
+                ],
+                "contractors_postal_address": [
+                    " Retford Gamston Airport"
+                ],
+                "contractors_town": [
+                    " Retford"
+                ],
+                "contractors_nuts": [
+                    " UKF15 North Nottinghamshire"
+                ],
+                "contractors_postal_code": [
+                    " DN22 0QL"
+                ],
+                "contractors_country": [
+                    " United Kingdom"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "30 900 000.00 EUR"
+            },
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "5",
+                "group_economic_operators": "yes",
+                "subcontracting": "",
+                "contractors": [
+                    " EASP Air BV",
+                    " 2. Scotty Group Austria GmbH",
+                    " 2Excel Aviation Ltd"
+                ],
+                "contractors_postal_address": [
+                    " Thermiekstraat 52",
+                    " Teslastrasse 4",
+                    " Sywell Aerodrome"
+                ],
+                "contractors_town": [
+                    " Schiphol",
+                    " Grambach",
+                    " Sywell"
+                ],
+                "contractors_nuts": [
+                    " NL324 Agglomeratie Haarlem",
+                    " AT221 Graz",
+                    " UKF25 North Northamptonshire"
+                ],
+                "contractors_postal_code": [
+                    " 1117 BD",
+                    " 8074",
+                    " NN6 0BN"
+                ],
+                "contractors_country": [
+                    " Netherlands",
+                    " Austria",
+                    " United Kingdom"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "total_value": "30 900 000.00 EUR"
+            },
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "5",
+                "group_economic_operators": "no",
+                "subcontracting": "The contract is likely to be subcontracted",
+                "contractors": [
+                    " ISR Support Europe BV"
+                ],
+                "contractors_postal_address": [
+                    " Thermiekstraat 158"
+                ],
+                "contractors_town": [
+                    " Schiphol"
+                ],
+                "contractors_nuts": [
+                    " NL324 Agglomeratie Haarlem"
+                ],
+                "contractors_postal_code": [
+                    " 1117 BG"
+                ],
+                "contractors_country": [
+                    " Netherlands"
+                ],
+                "contractors_sme": [
+                    " no"
+                ],
+                "total_value": "30 900 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "395422-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Frontex Surveillance Aircraft Services for Border and Coast Guard Functions (FSA I)",
+            "cpv": "60440000 Aerial and related services",
+            "type": "Services",
+            "description": "",
+            "total_value": "NA",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "60440000 Aerial and related services",
+            "award_criteria": "Quality criterion - Name: Compliance to technical requirements / Weighting: 100",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "395421-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Frontex Surveillance Aircraft Services for Border and Coast Guard Functions (FSA I)",
+            "cpv": "60440000 Aerial and related services",
+            "type": "Services",
+            "description": "",
+            "total_value": "NA",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "60440000 Aerial and related services",
+            "award_criteria": "Quality criterion - Name: Compliance to technical requirements / Weighting: 100",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "330048-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "FWC for Map Production Services",
+            "cpv": "79900000 Miscellaneous business and business-related services",
+            "type": "Services",
+            "description": "",
+            "total_value": "4 000 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "NA",
+            "award_criteria": "Quality criterion - Name: As stated in the procurement documents / Weighting: 60 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/OP/403/2020/DT",
+                "number_tenders_received": "12",
+                "group_economic_operators": "yes",
+                "subcontracting": "",
+                "contractors": [
+                    " ITHACA — Information Technology for Humanitarian Assistance, Cooperation and Action",
+                    " ITHACA S.R.L.",
+                    " Politecnico DI Torino",
+                    " Freytag – Berndt und Artaria Kommanditgesellschaft Kartographische Anstalt",
+                    " Epsilon Malta Ltd",
+                    " GEO4MAP S.R.L.",
+                    " Karšu izdevniecība Jāņa sēta SIA"
+                ],
+                "contractors_postal_address": [
+                    " Via Pier Carlo Boggio 61",
+                    " Via Pier Carlo Boggio 61",
+                    " Corso Duca degli Abruzzi 24",
+                    " Brunner Straße 69",
+                    " Tower Business Centre, Tower Street, 2nd Floor",
+                    " Via Leonardo da Vinci 18",
+                    " Krasta iela 105a"
+                ],
+                "contractors_town": [
+                    " Torino",
+                    " Torino",
+                    " Torino",
+                    " Wien",
+                    " Swatar",
+                    " Novara",
+                    " Riga"
+                ],
+                "contractors_nuts": [
+                    " IT Italia",
+                    " IT Italia",
+                    " IT Italia",
+                    " AT Österreich",
+                    " MT Malta",
+                    " IT Italia",
+                    " LV Latvija"
+                ],
+                "contractors_postal_code": [
+                    " 10138",
+                    " 10138",
+                    " 10129",
+                    " 1230",
+                    " BKR 4013",
+                    " 28100",
+                    " 1019"
+                ],
+                "contractors_country": [
+                    " Italy",
+                    " Italy",
+                    " Italy",
+                    " Austria",
+                    " Malta",
+                    " Italy",
+                    " Latvia"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no",
+                    " no"
+                ],
+                "total_value": "4 000 000.00 EUR"
+            }
+        ]
+    },
+    {
+        "id": "303636-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "Defence"
+        },
+        "object": {
+            "title": "Framework Contract (FWC) for the Supply of Service Weapons (Compact 9 x 19 mm Semi-automatic Pistol), Ammunition and Accessories",
+            "cpv": "35300000 Weapons, ammunition and associated parts",
+            "type": "Supplies",
+            "description": "",
+            "total_value": "NA",
+            "lots": "This contract is divided into lots: yes",
+            "cpv_2": "35300000 Weapons, ammunition and associated parts",
+            "award_criteria": "Quality criterion - Name: Quality / Weighting: 50 %",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Open procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "NA",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            },
+            {
+                "contract_no": "2",
+                "number_tenders_received": "NA",
+                "group_economic_operators": "NA",
+                "subcontracting": "NA",
+                "contractors": [],
+                "contractors_postal_address": [],
+                "contractors_town": [],
+                "contractors_nuts": [],
+                "contractors_postal_code": [],
+                "contractors_country": [],
+                "contractors_sme": [],
+                "total_value": "NA"
+            }
+        ]
+    },
+    {
+        "id": "295695-2021",
+        "year": "2021",
+        "contracting_authority": {
+            "official_name": "European Border and Coast Guard Agency (FRONTEX)",
+            "postal_address": "Plac Europejski 6",
+            "town": "Warsaw",
+            "postal_code": "00-844",
+            "nuts": "PL911 Miasto Warszawa",
+            "country": "Poland",
+            "email": "procurement@frontex.europa.eu",
+            "type_contracting_authority": "European institution/agency or international organisation",
+            "main_activity": "General public services"
+        },
+        "object": {
+            "title": "Framework Contract for the Development of ICT Software Solution for EBCG Team Members Access to Schengen Information System (A2SISII)",
+            "cpv": "72000000 IT services: consulting, software development, Internet and support",
+            "type": "Services",
+            "description": "",
+            "total_value": "5 000 000.00 EUR",
+            "lots": "This contract is divided into lots: no",
+            "cpv_2": "72230000 Custom software development services",
+            "award_criteria": "Quality criterion - Name: Maintenance approach, software development and configuration management and testing approach, software development methodology, risks management, schedules. / Weighting: 60",
+            "duration": "NA"
+        },
+        "procedure": {
+            "type": "Restricted procedure"
+        },
+        "award_of_contracts": [
+            {
+                "contract_no": "Frontex/RP/1485/2019/SB",
+                "number_tenders_received": "2",
+                "group_economic_operators": "yes",
+                "subcontracting": "NA",
+                "contractors": [
+                    " Sopra Steria Benelux SA/NV",
+                    " Idemia Identity and Security France SAS"
+                ],
+                "contractors_postal_address": [
+                    " Avenue Arnaud Fraiteur 15-23",
+                    " Place Samuel de Champlain 2"
+                ],
+                "contractors_town": [
+                    " Brussels",
+                    " Courbevoie"
+                ],
+                "contractors_nuts": [
+                    " BE Belgique / België",
+                    " FR France"
+                ],
+                "contractors_postal_code": [
+                    " 1050",
+                    " 92400"
+                ],
+                "contractors_country": [
+                    " Belgium",
+                    " France"
+                ],
+                "contractors_sme": [
+                    " no",
+                    " no"
+                ],
+                "total_value": "5 000 000.00 EUR"
+            }
+        ]
+    },
+    {
         "id": "719505-2022",
         "year": "2022",
         "contracting_authority": {
